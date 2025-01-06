@@ -6,7 +6,12 @@
 token.txt
 *.db
 *instance/
-What's_in_this_Repo.txt
+# My hidden files Start
+
+
+
+# End
+
 .gitignore
 ### Also any macOS specific files
 .DS_Store
