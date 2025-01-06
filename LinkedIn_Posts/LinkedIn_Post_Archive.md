@@ -49,7 +49,7 @@ Thank you to Dr. Angela Yu for the incredible course and to everyone who support
 
 Thank You all.
 
-<img height=350px src="post_pics/Post-1 Announce Achievement/Certificate of Completion(100 Days of Code).jpg">
+<img height=350px src="Post Pics/Post-1 Announce Achievement/Certificate of Completion(100 Days of Code).jpg">
 
 ---
 
@@ -110,11 +110,11 @@ The first five days laid a strong foundation for my Python skills. With every pr
 
 Thank You all.
 
-<img height=300px src="post_pics/Post-2 Dat-1 to 5/Day-1.png">
-<img height=300px src="post_pics/Post-2 Dat-1 to 5/Day-2.png">
-<img height=300px src="post_pics/Post-2 Dat-1 to 5/Day-3.png">
-<img height=300px src="post_pics/Post-2 Dat-1 to 5/Day-4.png">
-<img height=300px src="post_pics/Post-2 Dat-1 to 5/Day-5.png">
+<img height=300px src="Post Pics/Post-2 Day-1 to 5/Day-1.png">
+<img height=300px src="Post Pics/Post-2 Day-1 to 5/Day-2.png">
+<img height=300px src="Post Pics/Post-2 Day-1 to 5/Day-3.png">
+<img height=300px src="Post Pics/Post-2 Day-1 to 5/Day-4.png">
+<img height=300px src="Post Pics/Post-2 Day-1 to 5/Day-5.png">
 
 ---
 

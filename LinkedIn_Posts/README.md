@@ -185,3 +185,159 @@
     49. Jumping over Hurdles with Variable Heights
     50. Final Project: Escaping the Maze
     51. Why is this "so* Hard?! Can I really do this?
+
+### Day 7 - Beginner - Hangman
+
+    52. Day 7 Goals: what we will make by the end of the day
+    53. How to break a Complex Problem down into a Flow Chart
+    54. Step 1 - Picking a Random Words and Checking Answers
+    55. Step 2 - Replacing Blanks with Guesses
+    56. Step 3- Checking if the Player has Won
+    57. Step 4 - Keeping Track of the Player's Lives
+    58. Step 5-Improving the User Experience
+    59. The Benefits of Daily Practice
+
+### Day 8 - Beginner - Function Parameters & Caesar Cipher
+
+    60. Day 8 Goals: what we will make by the end of the day
+    61. Functions with Inputs
+        Coding Exercise 7: Life in Weeks
+    62. Positional vs. Keyword Arguments
+        Coding Exercise 8: Love Calculator
+    63. Caesar Cipher Part 1 - Encryption
+    64. Caesar Cipher Part 2 - Decryption
+    65. Caesar Cipher Part 3 - Reorganising our Code
+    66. How You Can Stay* Motivated
+
+### Day 9 - Beginner - Dictionaries, Nesting and the Secret Auction
+
+    67. Day 9 Goals: what we will make by the end of the day
+    68. The Python Dictionary: Deep Dive
+        Coding Exercise 9: Grading Program
+    69. Nesting Lists and Dictionaries
+        Quiz 7: Python Dictionaries Quiz
+    70. The Secret Auction Program Instructions and Flow Chart
+    71. Motivation and the Accountability Trick
+
+### Day 10 - Beginner - Functions with Outputs
+
+    72. Day 10 Goals: what we will make by the end of the day
+    73. Functions with Outputs
+    74. Multiple return values
+        Coding Exercise 10: Leap Year
+    75. Docstrings
+        Quiz 8: Functions Quiz
+    76. The Calculator Project
+    77. How to Get a Good Night's Sleep
+
+### Day 11 - Beginner - The Blackjack Capstone Project
+
+    78. Day 11 Goals: what we will make by the end of the day
+    79. Blackjack Program Requirements and Game Rules
+    80. Hint 4 & 5 Solution Walkthrough
+    81. Hint 6-8 Solution Walkthrough
+    82. Hint 9 Solution Walkthrough: Refactoring and calling calculate_score()
+    83. Hint 10-12 Solution Walkthrough
+    84. Hint 13 Solution Walkthrough
+    85. A Solid Foundation goes a Long Way
+
+### Day 12 - Beginner - Scope & Number Guessing Game
+
+    86. Day 12 Goals: What we'll make by the end of the day
+    87. Namespaces: Local vs. Global Scope
+    88. Does Python Have Block Scope?
+        Coding Exercise 11: Prime Number Checker
+    89. How to Modify a Global Variable
+    90. Python Constants and Global Scope
+        Quiz 9: Scope Quiz
+    91. Introducing the Final Project: The Number Guessing Game
+    92. Solution & Walkthrough to the Number Guessing Game
+    93. Don't be too hard on yourself
+
+### Day 13 - Beginner - Debugging: How to Find and Fix Errors in your Code
+
+    94. Describe the Problem
+    95. Reproduce the Bug
+    96. Play Computer and Evaluate Each Line
+    97. Fixing Errors and Watching for Red Underlines
+    98. Squash bugs with a print() Statement
+    99. Bringing out the BIG Gun: Using a Debugger
+    100. Final Debugging Tips
+        Coding Exercise 12: Debugging Odd or Even
+        Coding Exercise 13: Debugging Leap Year
+        Coding Exercise 14: Debugging FizzBuzz
+    101. Building Confidence
+
+### Day 14 - Beginner - Higher Lower Game Project
+
+    102. Introduction & Program Requirements for the Higher Lower Game
+    103. Solution & Walkthrough of the Higher Lower Game
+    104. Study Tip: Set Reminders in Your Calendar to Review
+
+### Day 15 - Intermediate - Local Development Environment Setup & the Coffee Machine
+
+    105. Introduction & Requirements for the Coffee Machine Project
+    106. Solution & Walkthrough for the Coffee Machine Code
+    107. Location, Location, Location - Pavlov's Coding Corner
+
+### Day 16 - Intermediate - Object Oriented Programming (OOP)
+
+    108. Why do we need OOP and how does it work?
+    109. How to use OOP: Classes and Objects
+    110. Constructing Objects and Accessing their Attributes and Methods
+    111. How to Add Python Packages and use PyPi
+    112. Practice Modifying Object Attributes and Calling Methods
+        Quiz 10: Python Objects Quiz
+    113. Building the Coffee Machine in OOP
+    114. Walkthrough and Solution for the OOP Coffee Machine
+    115. Don't forget to review occasionally
+
+### Day 17 - Intermediate - The Quiz Project & the Benefits of OOP
+
+    116. Day 17 Goals: what we will make by the end of the day
+    117. How to create your own Class in Python
+    118. Working with Attributes, Class Constructors and the_init_() Function
+    119. Adding Methods to a Class
+    120. Quiz Project Part 1: Creating the Question Class
+    121. Quiz Project Part 2: Creating the List of Question Objects from the Data
+    122. Quiz Project Part 3: The QuizBrain and the next_question() Method
+    123. Quiz Project Part 4: How to continue showing new Questions
+    124. Quiz Project Part 5: Checking Answers and Keeping Score
+    125. The Benefits of OOP: Use Open Trivia DB to Get New Questions
+    126. Run for that Bus!
+
+### Day 18 - Intermediate - Turtle & the Graphical User Interface (GUI)
+
+    127. Day 18 Goals: what we will make by the end of the day
+    128. Understanding Turtle Graphics and How to use the Documentation
+    129. Turtle Challenge 1 - Draw a Square
+    130. Importing Modules, Installing Packages, and Working with Aliases
+    131. Turtle Challenge 2 - Draw a Dashed Line
+    132. Turtle Challenge 3 - Drawing Different Shapes
+    133. Turtle Challenge 4 - Generate a Random Walk
+    134. Python Tuples and How to Generate Random RGB Colours
+    135. Turtle Challenge 5 - Draw a Spirograph
+    136. The Hirst Painting Project Part 1 - How to Extract RGB Values from Images
+    137. The Hirst Painting Project Part 2 - Drawing the Dots
+    138. Space out your study sessions and stay consistent
+
+### Day 19 - Intermediate - Instances, State and Higher Order Functions
+
+    139. Day 19 Goals: what we will make by the end of the day
+    140. Python Higher Order Functions & Event Listeners
+    141. Challenge: Make an Etch-A-Sketch App
+    142. Object State and Instances
+    143. Understanding the Turtle Coordinate System
+        Quiz 11: Turtle Coordinate System Quiz
+    144. Aaaand, we're off to the races!
+    145. Expand on the Solutions
+
+### Day 20 - Intermediate - Build the Snake Game Part 1: Animation & Coordinates
+
+    146. Day 20 Goals: what we will make by the end of the day
+    147. Screen Setup and Creating a Snake Body
+    148. Animating the Snake Segments on Screen
+    149. Create a Snake Class & Move to OOP
+    150. How to Control the Snake with a Keypress
+    151. Programming is not Memorising
+
