@@ -1,0 +1,70 @@
+Hay Gpt!
+Make a linkdn post to share my Journey from Day 1 to 5
+I am sharing you the title of the videos and topics or projects I covered.
+
+Day 1 - Beginner - Working with Variables in Python to Manage Data
+    1. What you're going to get from this course
+    2. START HERE
+    3. Downloadable Resources and Tips for Taking the Course
+    4. Day 1 Goals: what we will make by the end of the day
+    5. Download and Setup PyCharm for Learning
+    6. Printing to the Console in Python
+        Coding Exercise 1: Printing Practice
+    7. String Manipulation and Code Intelligence
+        Coding Exercise 2: Debugging Practice
+    8. The Python Input Function
+    9. Python Variables
+        Coding Exercise 3: Variables
+    10. Variable Naming
+        Quiz 1: Variable Naming Quiz
+    11. Day 1 Project: Band Name Generator
+    12. Congratulations! Well done!
+
+Day 2 - Beginner - Understanding Data Types and How to Manipulate Strings
+    13. Day 2 Goals: what we will make by the end of the day
+    14. Python Primitive Data Types
+        Quiz 2: Data Types Quiz
+    15. Type Error, Type Checking and Type Conversion
+    16. Mathematical Operations in Python
+        Coding Exercise 4: BMI Calculator
+    17. Number Manipulation and F Strings in Python
+        Quiz 3: Mathematical Operations Quiz
+    18. Day 2 Project: Tip Calculator
+    19. You are already in the top 50%
+
+Day 3 - Beginner - Control Flow and Logical Operators
+    20. Day 3 Goals: what we will make by the end of the day
+    21. Get Access to the Monthly App Brewery Newsletter
+    22. Control Flow with if/else and Conditional Operators
+    23. Introducing the Modulo
+    24. Nested if statements and elif statements
+        Coding Exercise 5: BMI Calculator with Interpretations
+    25. Multiple If Statements in Succession
+    26. Pizza Order Practice
+    27. Logical Operators
+        Quiz 4: Logical Operators Quiz
+    28. Day 3 Project: Treasure Island
+    29. Share and Show off your Project!
+
+Day 4 - Beginner - Randomisation and Python Lists
+    30. Day 4 Goals: what we will make by the end of the day
+    31. Random Module
+    32. Understanding the Offset and Appending Items to Lists
+    33. Who will pay the bill?
+    34. IndexErrors and Working with Nested Lists
+        Quiz 5: List and IndexError Quiz
+    35. Day 4 Project: Rock Paper Scissors
+    36. Programming is like going to the Gym
+
+Day 5 - Beginner - Python Loops
+    37. Day 5 Goals: what we will make by the end of the
+    38. Using the for loop with Python Lists
+    39. Highest Score
+    40. for loops and the range() function
+        Coding Exercise 6: FizzBuzz
+    41. Day 5 Project: Create a Password Generator
+    42. Hard Work and Perseverance beats Raw Talent Every Time
+
+I am sharing the screenshot and github link of the ripo.
+Please make a LinkedIn post.
+Also, remember I have already completed the 100 days of code. I am sharing all of these after sharing the completion certificate. So please make sure it reflects these in past.
