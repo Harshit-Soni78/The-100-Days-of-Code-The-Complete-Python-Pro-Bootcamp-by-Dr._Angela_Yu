@@ -171,3 +171,98 @@ Thank You all.
 <img height=300px src="Post Pics/Post-3 Day-6 to 10/Amended+Hangman+Flowchart.png">
 
 ---
+
+## Post-4 Day-11 to 14
+
+🌟 My Journey: Days 11–14 of 100 Days of Code 🌟
+
+Reflecting on another exciting segment of my 100 Days of Code, here’s what I achieved during Days 11–14. 🎯
+
+Day 11: The Blackjack Capstone Project
+
+- Built a Python-powered Blackjack Game from scratch
+- Learned essential concepts like code refactoring and problem-solving through hints and walkthroughs
+  ✨ Project: Blackjack – A dynamic and engaging card game simulation.
+
+Day 12: Scope & Number Guessing Game
+
+- Explored Python namespaces, local/global scope, and constants
+- Built the Number Guessing Game, learning to balance logic and user experience
+  ✨ Project: Number Guessing Game – A fun and interactive game using randomization and scope.
+
+Day 13: Debugging
+
+- Learned to systematically find and fix errors in code
+- Used debugging tools like print statements, manual evaluation, and Python debuggers
+  ✨ Exercises: Debugging Odd/Even, Leap Year, FizzBuzz – Practical exercises to enhance problem-solving skills.
+
+Day 14: Higher Lower Game Project
+
+- Designed and implemented the Higher Lower Game, combining logic and comparisons
+  ✨ Project: Higher Lower Game – A fun challenge comparing user guesses with random data.
+
+🔗 Explore the Repository: <https://github.com/Harshit-Soni78/The-100-Days-of-Code-The-Complete-Python-Pro-Bootcamp-by-Dr._Angela_Yu>
+
+📂 Please visit my GitHub Profile to view my work:- <https://github.com/Harshit-Soni78>
+
+Looking Back
+
+Days 11–14 introduced me to debugging techniques, scope, and real-world game development scenarios. These foundational skills have made me more confident in tackling coding challenges.
+
+🔜 I’ll continue sharing highlights from the remaining days and the amazing projects I built during this journey. Stay tuned for more updates!
+
+🚀 #100DaysOfCode #Python #LearningJourney #CodingProjects #CareerGrowth #Automation #DataScience #CodingJourney #Projects #LearningExperience #Programming #ProgrammingSkills #LearningInPublic
+
+<img height=300px src="Post Pics/Post-4 Day-11 to 14/blackjack flowchart.png">
+
+<video height="300px" controls>
+<source src="Post Pics/Post-4 Day-11 to 14/guess the number.mp4" type="video/mp4"></video>
+
+<video height="300px" controls>
+<source src="Post Pics/Post-4 Day-11 to 14/Higher Lower.mp4" type="video/mp4"></video>
+
+---
+
+## Post-5 Day-15 to 17
+
+🌟 My Journey: Days 15–17 of 100 Days of Code 🌟
+
+Continuing to share my progress from the 100 Days of Code. Here's what I tackled during Days 15–17:
+
+Day 15: Local Development Environment Setup & Coffee Machine
+
+- Learned how to set up a local development environment effectively
+- Built a Coffee Machine Project, covering functional programming and modular code design
+  ✨ Project: Coffee Machine – A console-based interactive coffee machine simulation.
+
+Day 16: Object-Oriented Programming (OOP)
+
+- Explored the power of OOP concepts like classes, objects, constructors, and methods
+- Refactored the Coffee Machine into an OOP-based structure
+  ✨ Project: OOP Coffee Machine – A redesigned, reusable, and scalable version of the Coffee Machine.
+
+Day 17: The Quiz Project & Benefits of OOP
+
+- Created a Quiz Application by mastering classes, attributes, and methods
+- Integrated external data using Open Trivia DB to make the quiz dynamic
+  ✨ Project: Quiz Project – A fully interactive quiz game with score tracking and question banks.
+
+🔗 Explore the Repository: <https://github.com/Harshit-Soni78/The-100-Days-of-Code-The-Complete-Python-Pro-Bootcamp-by-Dr._Angela_Yu>
+
+📂 Please visit my GitHub Profile to view my work:- <https://github.com/Harshit-Soni78>
+
+Looking Back
+
+Days 15–17 were all about stepping into intermediate coding concepts, especially OOP, which has transformed how I approach problem-solving and program design.
+
+🔜 I’ll continue sharing highlights from the remaining days and the amazing projects I built during this journey. Stay tuned for more updates!
+
+🚀 #100DaysOfCode #Python #LearningJourney #CodingProjects #CareerGrowth #Automation #DataScience #CodingJourney #Projects #LearningExperience #Programming #ProgrammingSkills #LearningInPublic #ObjectOrientedProgramming
+
+<video height="300px" controls>
+<source src="Post Pics/Post-5 Day-15 to 17/Coffie Machine.mp4" type="video/mp4"></video>
+
+<video height="300px" controls>
+<source src="Post Pics/Post-5 Day-15 to 17/Quiz game.mp4" type="video/mp4"></video>
+
+---
