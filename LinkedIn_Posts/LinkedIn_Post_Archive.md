@@ -216,10 +216,10 @@ Days 11–14 introduced me to debugging techniques, scope, and real-world game d
 <img height=300px src="Post Pics/Post-4 Day-11 to 14/blackjack flowchart.png">
 
 <video height="300px" controls>
-<source src="Post Pics/Post-4 Day-11 to 14/guess the number.mp4" type="video/mp4"></video>
+<source src="Post Pics/Post-4 Day-11 to 14/guess the number.mp4" type="video/mp4">guess the number.mp4</video>
 
 <video height="300px" controls>
-<source src="Post Pics/Post-4 Day-11 to 14/Higher Lower.mp4" type="video/mp4"></video>
+<source src="Post Pics/Post-4 Day-11 to 14/Higher Lower.mp4" type="video/mp4">Higher Lower.mp4</video>
 
 ---
 
@@ -260,9 +260,9 @@ Days 15–17 were all about stepping into intermediate coding concepts, especial
 🚀 #100DaysOfCode #Python #LearningJourney #CodingProjects #CareerGrowth #Automation #DataScience #CodingJourney #Projects #LearningExperience #Programming #ProgrammingSkills #LearningInPublic #ObjectOrientedProgramming
 
 <video height="300px" controls>
-<source src="Post Pics/Post-5 Day-15 to 17/Coffie Machine.mp4" type="video/mp4"></video>
+<source src="Post Pics/Post-5 Day-15 to 17/Coffie Machine.mp4" type="video/mp4">Coffie Machine.mp4</video>
 
 <video height="300px" controls>
-<source src="Post Pics/Post-5 Day-15 to 17/Quiz game.mp4" type="video/mp4"></video>
+<source src="Post Pics/Post-5 Day-15 to 17/Quiz game.mp4" type="video/mp4">Quiz game.mp4</video>
 
 ---
