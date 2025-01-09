@@ -9,13 +9,14 @@ I am thrilled to share that I have completed the "100 Days of Code: The Complete
 What This Journey Covered:
 
 Throughout this comprehensive course, I explored a massive range of tools and technologies, including:
-💻 Python Programming: Python 3, PyCharm, Jupyter Notebook, Google Colab
-🔧 Automation & Scripting: Web scraping, Beautiful Soup, Selenium WebDriver
-🎮 Game Development: Snake Game, Pong, Blackjack
-📊 Data Science: Pandas, NumPy, Matplotlib, Plotly, Scikit-learn, Seaborn
-🌐 Web Development: Flask, REST APIs, Authentication, SQL & Databases
-🎨 Front-End Technologies: HTML, CSS, Bootstrap
-🖥️ GUI Development: Turtle, Tkinter
+
+- 💻 Python Programming: Python 3, PyCharm, Jupyter Notebook, Google Colab
+- 🔧 Automation & Scripting: Web scraping, Beautiful Soup, Selenium - WebDriver
+- 🎮 Game Development: Snake Game, Pong, Blackjack
+- 📊 Data Science: Pandas, NumPy, Matplotlib, Plotly, Scikit-learn, - Seaborn
+- 🌐 Web Development: Flask, REST APIs, Authentication, SQL & Databases
+- 🎨 Front-End Technologies: HTML, CSS, Bootstrap
+- 🖥️ GUI Development: Turtle, Tkinter
 
 🔥Why I Started
 
@@ -65,35 +66,35 @@ This day was all about the basics:
 
 - Understanding Python’s console printing and string manipulation
 - Learning variable declaration and naming rules  
-  ✨ Project: Band Name Generator – A fun start to Python programming!
+  - ✨ Project: Band Name Generator – A fun start to Python programming!
 
 Day 2: Understanding Data Types and Manipulating Strings
 
 Key takeaways:
 
 - Explored Python’s primitive data types, type conversion, and mathematical operations  
-  ✨ Project: Tip Calculator – Perfect for simplifying bill-splitting scenarios!
+  - ✨ Project: Tip Calculator – Perfect for simplifying bill-splitting scenarios!
 
 Day 3: Control Flow and Logical Operators
 
 This was the day to dive into decision-making in Python:
 
 - Mastered `if/else`, conditional operators, and logical expressions  
-  ✨ Project: Treasure Island Game – A text-based adventure game that brought control flow to life!
+  - ✨ Project: Treasure Island Game – A text-based adventure game that brought control flow to life!
 
 Day 4: Randomisation and Python Lists
 
 Here’s where things started to get dynamic:
 
 - Learned about Python’s `random` module, list indexing, and working with nested lists  
-  ✨ Project: Rock Paper Scissors Game – My first interactive game using randomisation.
+  - ✨ Project: Rock Paper Scissors Game – My first interactive game using randomisation.
 
 Day 5: Python Loops
 
 A day focused on automation and repetition:
 
 - Mastered `for` loops, the `range()` function, and iterating over lists  
-  ✨ Project: Password Generator – A practical tool for creating secure, random passwords!
+  - ✨ Project: Password Generator – A practical tool for creating secure, random passwords!
 
 🔗 Explore the Repository: <https://github.com/Harshit-Soni78/The-100-Days-of-Code-The-Complete-Python-Pro-Bootcamp-by-Dr._Angela_Yu>
 
@@ -127,30 +128,30 @@ Day 6: Python Functions & Karel
 
 - Explored defining and calling Python functions
 - Tackled hurdles with while loops and variable heights
-  ✨ Project: Escaping the Maze – A logic-packed challenge that tested my problem-solving skills!
-  In this I solved every stage of Reeborg's World Game.
+  - ✨ Project: Escaping the Maze – A logic-packed challenge that tested my problem-solving skills!
+  - In this I solved every stage of Reeborg's World Game.
   Game Link :- <https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Alone&url=worlds%2Ftutorial_en%2Falone.json>
 
 Day 7: Hangman
 
 - Broke down a complex problem into a flowchart for better understanding
 - Built the Hangman Game from scratch, including features for lives, guesses, and a seamless user experience
-  ✨ Project: Hangman Game – A timeless classic brought to life with Python.
+  - ✨ Project: Hangman Game – A timeless classic brought to life with Python.
 
 Day 8: Function Parameters & Caesar Cipher
 
 - Learned about function inputs, positional/keyword arguments, and organizing code
-  ✨ Project: Caesar Cipher – An interactive program for encrypting and decrypting messages.
+  - ✨ Project: Caesar Cipher – An interactive program for encrypting and decrypting messages.
 
 Day 9: Dictionaries, Nesting, and the Secret Auction
 
 - Mastered Python dictionaries and nesting
-  ✨ Project: Secret Auction Program – A fun, anonymous bidding system powered by nested data structures.
+  - ✨ Project: Secret Auction Program – A fun, anonymous bidding system powered by nested data structures.
 
 Day 10: Functions with Outputs
 
 - Explored functions with outputs, multiple return values, and Python docstrings
-  ✨ Project: Calculator Program – A simple yet versatile tool for performing calculations.
+  - ✨ Project: Calculator Program – A simple yet versatile tool for performing calculations.
 
 🔗 Explore the Repository: <https://github.com/Harshit-Soni78/The-100-Days-of-Code-The-Complete-Python-Pro-Bootcamp-by-Dr._Angela_Yu>
 
@@ -182,24 +183,24 @@ Day 11: The Blackjack Capstone Project
 
 - Built a Python-powered Blackjack Game from scratch
 - Learned essential concepts like code refactoring and problem-solving through hints and walkthroughs
-  ✨ Project: Blackjack – A dynamic and engaging card game simulation.
+  - ✨ Project: Blackjack – A dynamic and engaging card game simulation.
 
 Day 12: Scope & Number Guessing Game
 
 - Explored Python namespaces, local/global scope, and constants
 - Built the Number Guessing Game, learning to balance logic and user experience
-  ✨ Project: Number Guessing Game – A fun and interactive game using randomization and scope.
+  - ✨ Project: Number Guessing Game – A fun and interactive game using randomization and scope.
 
 Day 13: Debugging
 
 - Learned to systematically find and fix errors in code
 - Used debugging tools like print statements, manual evaluation, and Python debuggers
-  ✨ Exercises: Debugging Odd/Even, Leap Year, FizzBuzz – Practical exercises to enhance problem-solving skills.
+  - ✨ Exercises: Debugging Odd/Even, Leap Year, FizzBuzz – Practical exercises to enhance problem-solving skills.
 
 Day 14: Higher Lower Game Project
 
 - Designed and implemented the Higher Lower Game, combining logic and comparisons
-  ✨ Project: Higher Lower Game – A fun challenge comparing user guesses with random data.
+  - ✨ Project: Higher Lower Game – A fun challenge comparing user guesses with random data.
 
 🔗 Explore the Repository: <https://github.com/Harshit-Soni78/The-100-Days-of-Code-The-Complete-Python-Pro-Bootcamp-by-Dr._Angela_Yu>
 
@@ -215,11 +216,9 @@ Days 11–14 introduced me to debugging techniques, scope, and real-world game d
 
 <img height=300px src="Post Pics/Post-4 Day-11 to 14/blackjack flowchart.png">
 
-<video height="300px" controls>
-<source src="Post Pics/Post-4 Day-11 to 14/guess the number.mp4" type="video/mp4">guess the number.mp4</video>
+<img height=300px src="Post Pics/Post-4 Day-11 to 14/HigherLower.gif">
 
-<video height="300px" controls>
-<source src="Post Pics/Post-4 Day-11 to 14/Higher Lower.mp4" type="video/mp4">Higher Lower.mp4</video>
+<img height=300px src="Post Pics/Post-4 Day-11 to 14/guessthenumber.gif">
 
 ---
 
@@ -233,19 +232,19 @@ Day 15: Local Development Environment Setup & Coffee Machine
 
 - Learned how to set up a local development environment effectively
 - Built a Coffee Machine Project, covering functional programming and modular code design
-  ✨ Project: Coffee Machine – A console-based interactive coffee machine simulation.
+  - ✨ Project: Coffee Machine – A console-based interactive coffee machine simulation.
 
 Day 16: Object-Oriented Programming (OOP)
 
 - Explored the power of OOP concepts like classes, objects, constructors, and methods
 - Refactored the Coffee Machine into an OOP-based structure
-  ✨ Project: OOP Coffee Machine – A redesigned, reusable, and scalable version of the Coffee Machine.
+  - ✨ Project: OOP Coffee Machine – A redesigned, reusable, and scalable version of the Coffee Machine.
 
 Day 17: The Quiz Project & Benefits of OOP
 
 - Created a Quiz Application by mastering classes, attributes, and methods
 - Integrated external data using Open Trivia DB to make the quiz dynamic
-  ✨ Project: Quiz Project – A fully interactive quiz game with score tracking and question banks.
+  - ✨ Project: Quiz Project – A fully interactive quiz game with score tracking and question banks.
 
 🔗 Explore the Repository: <https://github.com/Harshit-Soni78/The-100-Days-of-Code-The-Complete-Python-Pro-Bootcamp-by-Dr._Angela_Yu>
 
@@ -259,10 +258,52 @@ Days 15–17 were all about stepping into intermediate coding concepts, especial
 
 🚀 #100DaysOfCode #Python #LearningJourney #CodingProjects #CareerGrowth #Automation #DataScience #CodingJourney #Projects #LearningExperience #Programming #ProgrammingSkills #LearningInPublic #ObjectOrientedProgramming
 
-<video height="300px" controls>
-<source src="Post Pics/Post-5 Day-15 to 17/Coffie Machine.mp4" type="video/mp4">Coffie Machine.mp4</video>
+<img height=300px src="Post Pics/Post-5 Day-15 to 17/CoffieMachine.gif">
 
-<video height="300px" controls>
-<source src="Post Pics/Post-5 Day-15 to 17/Quiz game.mp4" type="video/mp4">Quiz game.mp4</video>
+<img height=300px src="Post Pics/Post-5 Day-15 to 17/QuizGame.gif">
 
 ---
+
+## Post-6 Day-18 to 19
+
+🌟 My Journey: Days 18–19 of 100 Days of Code 🌟
+
+The adventure continues as I dive deeper into Python with 100 Days of Code.
+Here's what I accomplished during Days 18–19:
+
+Day 18: Turtle & Graphical User Interface (GUI)
+
+- Discovered the magic of Turtle Graphics for creating visual art in Python
+- Completed exciting challenges:
+  - 🟦 Draw shapes (squares, dashed lines, and more)
+  - 🌈 Generate a random walk with random RGB colors
+  - 🌀 Create mesmerizing Spirographs
+  - 🎨 Built the Hirst Painting Project, drawing dot art inspired by - Damien Hirst
+  - ✨ Project: Hirst Painting – Brought an image to life using Python and - Turtle Graphics!
+
+Day 19: Instances, State & Higher Order Functions
+
+- Explored Higher-Order Functions and their use in Python
+- Learned about object state and how to manage instances effectively
+- Built an interactive Etch-A-Sketch App
+- Began the Turtle Race Game using the Turtle Coordinate System
+  - ✨ Project: Etch-A-Sketch App – A fun, interactive drawing tool powered by keyboard inputs!
+  - ✨ Project: Turtle Race Game – Simulating a thrilling turtle race.
+
+🔗 Explore the Repository: <https://github.com/Harshit-Soni78/The-100-Days-of-Code-The-Complete-Python-Pro-Bootcamp-by-Dr._Angela_Yu>
+
+📂 Please visit my GitHub Profile to view my work:- <https://github.com/Harshit-Soni78>
+
+Reflection
+
+Days 18–19 were pure joy as I blended coding with creativity, turning Python into a canvas for art and interactivity. These projects showcased how fun and dynamic coding can be!
+
+🔜 Stay tuned for my journey from Days 20–21, where I’ll share even more exciting progress!
+
+🚀 #100DaysOfCode #Python #LearningJourney #TurtleGraphics #CodingProjects #CareerGrowth #Automation #DataScience #CodingJourney #Projects #LearningExperience #Programming #ProgrammingSkills #LearningInPublic #ObjectOrientedProgramming
+
+<img height=300px src="Post Pics/Post-6 Day-18 to 19/">
+
+<img height=300px src="Post Pics/Post-6 Day-18 to 19/">
+
+<img height=300px src="Post Pics/Post-6 Day-18 to 19/">
