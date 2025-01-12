@@ -65,35 +65,35 @@ Day 1: Working with Variables in Python to Manage Data
 This day was all about the basics:
 
 - Understanding Python’s console printing and string manipulation
-- Learning variable declaration and naming rules  
+- Learning variable declaration and naming rules
   - ✨ Project: Band Name Generator – A fun start to Python programming!
 
 Day 2: Understanding Data Types and Manipulating Strings
 
 Key takeaways:
 
-- Explored Python’s primitive data types, type conversion, and mathematical operations  
+- Explored Python’s primitive data types, type conversion, and mathematical operations
   - ✨ Project: Tip Calculator – Perfect for simplifying bill-splitting scenarios!
 
 Day 3: Control Flow and Logical Operators
 
 This was the day to dive into decision-making in Python:
 
-- Mastered `if/else`, conditional operators, and logical expressions  
+- Mastered `if/else`, conditional operators, and logical expressions
   - ✨ Project: Treasure Island Game – A text-based adventure game that brought control flow to life!
 
 Day 4: Randomisation and Python Lists
 
 Here’s where things started to get dynamic:
 
-- Learned about Python’s `random` module, list indexing, and working with nested lists  
+- Learned about Python’s `random` module, list indexing, and working with nested lists
   - ✨ Project: Rock Paper Scissors Game – My first interactive game using randomisation.
 
 Day 5: Python Loops
 
 A day focused on automation and repetition:
 
-- Mastered `for` loops, the `range()` function, and iterating over lists  
+- Mastered `for` loops, the `range()` function, and iterating over lists
   - ✨ Project: Password Generator – A practical tool for creating secure, random passwords!
 
 🔗 Explore the Repository: <https://github.com/Harshit-Soni78/The-100-Days-of-Code-The-Complete-Python-Pro-Bootcamp-by-Dr._Angela_Yu>
@@ -130,7 +130,7 @@ Day 6: Python Functions & Karel
 - Tackled hurdles with while loops and variable heights
   - ✨ Project: Escaping the Maze – A logic-packed challenge that tested my problem-solving skills!
   - In this I solved every stage of Reeborg's World Game.
-  Game Link :- <https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Alone&url=worlds%2Ftutorial_en%2Falone.json>
+    Game Link :- <https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Alone&url=worlds%2Ftutorial_en%2Falone.json>
 
 Day 7: Hangman
 
@@ -264,12 +264,12 @@ Days 15–17 were all about stepping into intermediate coding concepts, especial
 
 ---
 
-## Post-6 Day-18 to 19
+## Post-6 Day-18
 
-🌟 My Journey: Days 18–19 of 100 Days of Code 🌟
+🌟 My Journey: Day 18 of 100 Days of Code 🌟
 
 The adventure continues as I dive deeper into Python with 100 Days of Code.
-Here's what I accomplished during Days 18–19:
+Here's what I accomplished during Day 18:
 
 Day 18: Turtle & Graphical User Interface (GUI)
 
@@ -281,6 +281,29 @@ Day 18: Turtle & Graphical User Interface (GUI)
   - 🎨 Built the Hirst Painting Project, drawing dot art inspired by - Damien Hirst
   - ✨ Project: Hirst Painting – Brought an image to life using Python and - Turtle Graphics!
 
+🔗 Explore the Repository: <https://github.com/Harshit-Soni78/The-100-Days-of-Code-The-Complete-Python-Pro-Bootcamp-by-Dr._Angela_Yu>
+
+📂 Please visit my GitHub Profile to view my work:- <https://github.com/Harshit-Soni78>
+
+Reflection
+
+Day 18 was pure joy as I blended coding with creativity, turning Python into a canvas for art and interactivity. These projects showcased how fun and dynamic coding can be!
+
+🔜 Stay tuned for my journey from Day 19, where I’ll share even more exciting progress!
+
+🚀 #100DaysOfCode #Python #LearningJourney #TurtleGraphics #CodingProjects #CareerGrowth #Automation #DataScience #CodingJourney #Projects #LearningExperience #Programming #ProgrammingSkills #LearningInPublic #ObjectOrientedProgramming
+
+<img height=300px src="Post Pics/Post-6 Day-18/Day-18.1.gif">
+
+---
+
+## Post-7 Day-19
+
+🌟 My Journey: Day 19 of 100 Days of Code 🌟
+
+The adventure continues as I dive deeper into Python with 100 Days of Code.
+Here's what I accomplished during Day 19:
+
 Day 19: Instances, State & Higher Order Functions
 
 - Explored Higher-Order Functions and their use in Python
@@ -288,7 +311,7 @@ Day 19: Instances, State & Higher Order Functions
 - Built an interactive Etch-A-Sketch App
 - Began the Turtle Race Game using the Turtle Coordinate System
   - ✨ Project: Etch-A-Sketch App – A fun, interactive drawing tool powered by keyboard inputs!
-  - ✨ Project: Turtle Race Game – Simulating a thrilling turtle race.
+  - ✨ Project: Turtle Race Game - Simulating a thrilling turtle race.
 
 🔗 Explore the Repository: <https://github.com/Harshit-Soni78/The-100-Days-of-Code-The-Complete-Python-Pro-Bootcamp-by-Dr._Angela_Yu>
 
@@ -296,14 +319,50 @@ Day 19: Instances, State & Higher Order Functions
 
 Reflection
 
-Days 18–19 were pure joy as I blended coding with creativity, turning Python into a canvas for art and interactivity. These projects showcased how fun and dynamic coding can be!
+Day 19 was pure joy as I blended coding with creativity, turning Python into a canvas for art and interactivity. These projects showcased how fun and dynamic coding can be!
 
 🔜 Stay tuned for my journey from Days 20–21, where I’ll share even more exciting progress!
 
 🚀 #100DaysOfCode #Python #LearningJourney #TurtleGraphics #CodingProjects #CareerGrowth #Automation #DataScience #CodingJourney #Projects #LearningExperience #Programming #ProgrammingSkills #LearningInPublic #ObjectOrientedProgramming
 
-<img height=300px src="Post Pics/Post-6 Day-18 to 19/">
+<img height=300px src="Post Pics/Post-7 Day-19/etch-a-sketch.gif">
+<img height=300px src="Post Pics/Post-7 Day-19/Turtle race.gif">
 
-<img height=300px src="Post Pics/Post-6 Day-18 to 19/">
+---
 
-<img height=300px src="Post Pics/Post-6 Day-18 to 19/">
+## Post-8 Day-20 to 21
+
+🌟 My Journey: Days 20–21 of 100 Days of Code 🌟
+
+Continuing to relive my Python journey from 100 Days of Code, here’s what I accomplished in Days 20–21:
+
+Day 20: Snake Game Part 1 - Animation & Coordinates
+
+- Set up the game screen and created the snake's body
+- Animated the snake segments to move seamlessly on the screen
+- Built a Snake Class to manage the snake’s movement with OOP principles
+- Enabled user control of the snake via keypress
+
+Day 21: Snake Game Part 2 - Inheritance & List Slicing
+
+- Explored Class Inheritance to enhance game components
+- Detected collisions with food to grow the snake and update the score
+- Added collision detection with walls and the snake’s tail for game over conditions
+- Built a Scoreboard Class to display live scores
+- Applied list slicing techniques to handle the snake's tail mechanics
+
+✨ Project: Snake Game – A fully functional game with animations, scoring, and collision mechanics.
+
+🔗 Explore the Repository: <https://github.com/Harshit-Soni78/The-100-Days-of-Code-The-Complete-Python-Pro-Bootcamp-by-Dr._Angela_Yu>
+
+📂 Please visit my GitHub Profile to view my work:- <https://github.com/Harshit-Soni78>
+
+Reflection
+
+Days 20–21 marked a significant milestone in my learning, as I transitioned from basic projects to a more complex, feature-rich game. This was a perfect demonstration of how Python concepts like OOP, list slicing, and inheritance can be brought together to create something fun and interactive.
+
+🔜 Coming up next, Days 22–23, with even more exciting projects to share!
+
+🚀 #100DaysOfCode #Python #LearningJourney #TurtleGraphics #CodingProjects #CareerGrowth #Automation #DataScience #CodingJourney #Projects #LearningExperience #Programming #ProgrammingSkills #LearningInPublic #ObjectOrientedProgramming #GameDevelopment #SnakeGame
+
+<img height=300px src="Post Pics/Post-8 Day-20 to 21/Day-20-21 Snake Game.gif">
