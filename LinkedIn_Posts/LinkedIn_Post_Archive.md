@@ -439,3 +439,310 @@ Day 23 was a deep dive into developing a fully functional game while applying th
 <img height=300px src="Post Pics/Post-10 Day-23/Turtle Crossing Day-23.gif">
 
 ---
+
+## Post-11 Day-24
+
+🌟 My Journey: Day 24 of 100 Days of Code 🌟
+
+Day 24 was all about diving deeper into file handling, working with directories, and exploring paths in Python! 📂✨ I expanded on previous projects while taking on exciting challenges that involved manipulating files and paths.
+
+Day 24 Highlights
+
+🛠 Goals for the Day: Learn to read, write, and manage files effectively.
+
+Key Achievements:
+
+- 1️⃣ High Score Feature for Snake Game:
+  - Added a high score system that stores and retrieves the highest score from a file.
+  - Learned how to open, read, and write to files using the with keyword for clean and efficient coding.
+
+- 2️⃣ Mail Merge Challenge:
+  - Automated a mailing system by merging names from a file into a template.
+  - Explored relative and absolute file paths to manage directories seamlessly.
+
+- 3️⃣ Understanding File Paths:
+  - Mastered concepts like relative vs. absolute paths and applied them to real-world coding scenarios.
+
+🔗 Explore the Repository: <https://github.com/Harshit-Soni78/The-100-Days-of-Code-The-Complete-Python-Pro-Bootcamp-by-Dr._Angela_Yu>
+
+📂 Please visit my GitHub Profile to view my work:- <https://github.com/Harshit-Soni78>
+
+Reflection
+
+Day 24 was an essential step toward mastering file operations, a skill every developer needs in their toolkit. From implementing a high score system in a game to automating repetitive tasks with the Mail Merge Challenge, it was both fun and enlightening.
+
+🔜 The journey continues on Day 25! Thank you for following along.
+
+🚀 #Python #100DaysOfCode #CodingJourney #FileHandling #MailMerge #LearningInPublic
+
+<img height=300px src="Post Pics/Post-11 Day-24/Day-24.gif">
+
+---
+
+## Post-12 Day-25
+
+🌟 My Journey: Day 25 of 100 Days of Code 🌟
+
+On Day 25, I explored the power of working with CSV data and dove into the Pandas library! 📊🐼 This day was all about handling real-world data and creating meaningful insights.
+
+Day 25 Highlights
+
+🛠 Goals for the Day: Learn how to read, analyze, and manipulate CSV data using Python and Pandas.
+
+Key Achievements:
+
+- 1️⃣ Reading CSV Data in Python:
+  - Mastered reading and writing CSV files seamlessly.
+
+- 2️⃣ DataFrames and Series:
+  - Worked with rows and columns using Pandas, one of the most powerful libraries for data manipulation.
+
+- 3️⃣ Squirrel Census Data Analysis:
+  - Analyzed real-world data from the Great Squirrel Census using Pandas.
+  - Gained hands-on experience in cleaning, filtering, and summarizing data.
+
+- 4️⃣ U.S. States Game:
+  - Created an interactive game that challenges users to name all 50 U.S. states.
+  - Used Pandas to handle user inputs and save data dynamically to a CSV file.
+
+🔗 Explore the Repository: <https://github.com/Harshit-Soni78/The-100-Days-of-Code-The-Complete-Python-Pro-Bootcamp-by-Dr._Angela_Yu>
+
+📂 Please visit my GitHub Profile to view my work:- <https://github.com/Harshit-Soni78>
+
+Reflection
+
+Day 25 introduced me to the power of Pandas and the practicality of working with CSV data, two essential skills for data science and Python programming. From analyzing squirrels 🐿️ to creating a fun geography game, it was a day of learning and creativity.
+
+🔜 The journey continues with even more exciting projects! Thanks for joining me on this adventure.
+
+🚀 #Python #100DaysOfCode #CodingJourney #PandasLibrary #DataAnalysis #LearningInPublic
+
+<img height=300px src="Post Pics/">
+
+---
+
+## Post-13 Day-26
+
+🌟 My Journey: Day 26 of 100 Days of Code 🌟
+
+Day 26 was all about diving deeper into Python and exploring List and Dictionary Comprehensions, along with a fun project involving the NATO Alphabet! ✨
+
+Day 26 Highlights
+
+🛠 Goals for the Day: Learn efficient ways to work with lists and dictionaries in Python, and apply these concepts to real-world projects.
+
+Key Achievements:
+
+- 1️⃣ List Comprehensions Made Easy:
+  - Mastered creating lists using concise and efficient syntax.
+  - Completed coding exercises like Squaring Numbers, Filtering Even Numbers, and Data Overlap.
+
+- 2️⃣ Dictionary Comprehension:
+  - Learned how to create dictionaries dynamically.
+  - Practiced with exercises to solidify my understanding.
+
+- 3️⃣ Iterating Over Pandas DataFrames:
+  - Explored advanced data manipulation techniques with Pandas.
+
+- 4️⃣ The NATO Alphabet Project:
+  - Built a fun project to convert words into their NATO phonetic alphabet equivalents!
+  - Applied list and dictionary comprehensions to simplify the code.
+
+🔗 Explore the Repository: <https://github.com/Harshit-Soni78/The-100-Days-of-Code-The-Complete-Python-Pro-Bootcamp-by-Dr._Angela_Yu>
+
+📂 Please visit my GitHub Profile to view my work:- <https://github.com/Harshit-Soni78>
+
+Reflection
+
+Day 26 reinforced the importance of writing clean and efficient Python code. From creating elegant list comprehensions to building a useful NATO Alphabet tool, this day was both fun and educational. 🐍✨
+
+🔜 The journey so far has been incredible, and I’m excited to continue building, learning, and growing every day!
+
+What are your favorite ways to use list and dictionary comprehensions? Let me know in the comments! 💬
+
+🚀 #Python #100DaysOfCode #CodingJourney #NATOAlphabet #ListComprehension #LearningInPublic
+
+<img height=300px src="Post Pics">
+
+---
+
+## Post-14 Day-27
+
+🌟 My Journey: Day 27 of 100 Days of Code 🌟
+
+Day 27 was a deep dive into the world of Graphical User Interfaces (GUI) with Python’s powerful Tkinter library! 🖥️✨
+
+Day 27 Highlights
+
+🛠 Goals for the Day: Learn the fundamentals of building GUI applications and understand the use of *args, **kwargs, and optional arguments in Python.
+
+Key Achievements
+
+- 1️⃣ Understanding GUI Development:
+  - Explored the history of GUI and the role of Tkinter.
+  - Learned to create Windows and Labels and work with different widgets.
+
+- 2️⃣ Advanced Python Functionality:
+  - Mastered the use of *args for handling multiple positional arguments.
+  - Learned **kwargs to manage keyword arguments effectively.
+  - Completed quizzes on default values, args, and kwargs to strengthen my understanding.
+
+- 3️⃣ Interactive Tkinter Widgets:
+  - Worked with Buttons, Entry fields, Radiobuttons, Scales, and more!
+  - Experimented with Tkinter layout managers: pack(), place(), and grid().
+
+- 4️⃣ Mile to Kilometers Converter Project:
+  - Built a functional GUI application to convert miles to kilometers! 🚗➡️📏
+  - Implemented interactive widgets and applied the concepts learned throughout the day.
+
+🔗 Explore the Repository: <https://github.com/Harshit-Soni78/The-100-Days-of-Code-The-Complete-Python-Pro-Bootcamp-by-Dr._Angela_Yu>
+
+📂 Please visit my GitHub Profile to view my work:- <https://github.com/Harshit-Soni78>
+
+Reflection
+
+Day 27 was an exciting blend of Python programming and creative GUI design. With Tkinter, I unlocked the potential to build interactive applications that users can engage with visually!
+
+🔜 The journey continues as I delve deeper into the 100 Days of Code. Each day is a step toward mastering Python and building impactful projects. 🚀
+
+Have you explored GUI programming with Tkinter? Share your thoughts and experiences in the comments below! 💬
+
+🚀 #Python #100DaysOfCode #Tkinter #GUIProgramming #CodingJourney #LearningInPublic
+
+<img height=300px src="Post Pics">
+
+---
+
+## Post-15 Day-28
+
+🌟 My Journey: Day 28 of 100 Days of Code 🌟
+
+Another exciting day in my Python journey! On Day 28, I combined the power of Tkinter with dynamic typing to create a functional and visually appealing Pomodoro Timer GUI application. ⏲️💻
+
+Day 28 Highlights
+
+🛠 Goals for the Day: Build a Pomodoro Timer application while mastering the Canvas widget and refining UI/UX design skills.
+
+Key Achievements
+
+- 1️⃣ Canvas Widget Mastery:
+  - Learned to work with the Canvas widget in Tkinter.
+  - Added images to the GUI for an engaging user interface.
+
+- 2️⃣ User Interface Challenges:
+  - Designed a polished and intuitive Pomodoro Timer UI.
+  - Completed the challenge to enhance the app’s usability and aesthetics.
+
+- 3️⃣ Countdown Mechanism & Dynamic Typing:
+  - Integrated a countdown mechanism to track work and break sessions.
+  - Explored dynamic typing and its flexibility in Python programming.
+
+- 4️⃣ Pomodoro Functionality:
+  - Set up different timer sessions for work and breaks.
+  - Added checkmarks to track completed sessions and implemented a reset feature to restart the timer effortlessly.
+
+🔗 Explore the Repository: <https://github.com/Harshit-Soni78/The-100-Days-of-Code-The-Complete-Python-Pro-Bootcamp-by-Dr._Angela_Yu>
+
+📂 Please visit my GitHub Profile to view my work:- <https://github.com/Harshit-Soni78>
+
+Reflection
+
+Day 28 was a fantastic blend of programming logic and creative design. Building the Pomodoro Timer reinforced my understanding of Tkinter and highlighted Python’s ability to make dynamic and user-friendly applications.
+
+🔜 Every Pomodoro session I complete reminds me of how far I’ve come on this journey. Can’t wait to see what’s next! 🚀
+
+Have you ever used a Pomodoro Timer for productivity? What’s your go-to tool for staying focused? Share your thoughts in the comments below! 💬
+
+🚀 #Python #100DaysOfCode #Tkinter #PomodoroTimer #GUIProgramming #CodingJourney #LearningInPublic
+
+<img height=300px src="Post Pics">
+
+---
+
+## Post-16 Day-29
+
+🌟 My Journey: Day 29 of 100 Days of Code: 🔐 Building a Password Manager GUI App 💻 🌟
+
+The journey through Tkinter continues with a focus on practicality and security! On Day 29, I tackled the challenge of creating a Password Manager application, equipping it with features to store and generate secure passwords.
+
+Day 29 Highlights
+
+🛠 Goals for the Day: Develop a fully functional Password Manager GUI app.
+
+Key Milestones
+
+- 1️⃣ Creating a Polished User Interface (UI):
+  - Worked with Canvas, grid layout, and columnspan to design an intuitive UI.
+  - Integrated visuals using images to enhance user experience.
+
+- 2️⃣ Saving Data Securely:
+  - Developed a feature to save user data to a file.
+  - Ensured that sensitive information is stored systematically for easy retrieval.
+
+- 3️⃣ Dialog Boxes and Pop-Ups:
+  - Implemented dialog boxes for seamless user interactions and error handling.
+
+- 4️⃣ Password Generation:
+  - Built a random password generator to create strong passwords.
+  - Added functionality to copy passwords to the clipboard for convenience.
+
+🔗 Explore the Repository: <https://github.com/Harshit-Soni78/The-100-Days-of-Code-The-Complete-Python-Pro-Bootcamp-by-Dr._Angela_Yu>
+
+📂 Please visit my GitHub Profile to view my work:- <https://github.com/Harshit-Soni78>
+
+Reflection
+
+Creating a Password Manager wasn’t just a coding exercise; it was a reminder of the importance of cybersecurity in everyday life. This project showcased the versatility of Tkinter in building practical and secure applications.
+
+🔜 Each day of this journey adds a new layer to my skills and understanding of Python. Excited to see what’s next in this coding adventure! 🚀
+
+What features do you think a robust password manager should have? Drop your suggestions in the comments below! 🗝️
+
+🚀 #Python #100DaysOfCode #PasswordManager #Tkinter #GUIProgramming #Cybersecurity #CodingJourney #LearningInPublic
+
+<img height=300px src="Post Pics">
+
+---
+
+## Post-17 Day-30
+
+🌟 My Journey: 📖 Day 30 of 100 Days of Code: Errors, Exceptions, and JSON Data 💡🌟
+
+Today’s milestone was all about problem-solving and making the Password Manager app even more robust and efficient! 🎯
+
+Day 30 Highlights
+
+🛠 Goals for the Day: Enhance the Password Manager app with error handling and JSON data management.
+
+Key Learnings and Achievements
+
+- 1️⃣ Mastering Error Handling:
+  - Explored the try, except, else, finally pattern for handling exceptions effectively.
+  - Raised custom exceptions to catch and fix specific issues.
+  - Practiced exception handling through engaging coding exercises.
+
+- 2️⃣ JSON Data Integration:
+  - Learned to read, write, and update JSON data.
+  - Implemented JSON to store password information in a structured and secure way.
+
+- 3️⃣ Improved User Experience:
+  - Added error-handling mechanisms to catch user input issues seamlessly.
+  - Enhanced the app’s functionality with a search feature to retrieve stored passwords by website name.
+
+🔗 Explore the Repository: <https://github.com/Harshit-Soni78/The-100-Days-of-Code-The-Complete-Python-Pro-Bootcamp-by-Dr._Angela_Yu>
+
+📂 Please visit my GitHub Profile to view my work:- <https://github.com/Harshit-Soni78>
+
+Reflection
+
+Error handling and working with JSON are critical skills for building resilient applications. With these features, the Password Manager is now a more powerful and user-friendly tool.
+
+🔜 Every line of code written is a step closer to mastering Python and software development. 🚀
+
+What’s your go-to technique for managing errors in code? Let’s exchange ideas in the comments! 🌟
+
+🚀 #Python #100DaysOfCode #ErrorHandling #JSON #Tkinter #GUIProgramming #CodingJourney #LearningInPublic
+
+<img height=300px src="Post Pics">
+
+---
