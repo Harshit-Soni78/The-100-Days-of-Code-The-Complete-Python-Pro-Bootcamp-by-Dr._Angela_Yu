@@ -517,7 +517,7 @@ Day 25 introduced me to the power of Pandas and the practicality of working with
 
 🚀 #Python #100DaysOfCode #CodingJourney #PandasLibrary #DataAnalysis #LearningInPublic
 
-<img height=300px src="Post Pics/">
+<img height=300px src="Post Pics/Post-12 Day-25/day25.gif">
 
 ---
 
@@ -562,7 +562,7 @@ What are your favorite ways to use list and dictionary comprehensions? Let me kn
 
 🚀 #Python #100DaysOfCode #CodingJourney #NATOAlphabet #ListComprehension #LearningInPublic
 
-<img height=300px src="Post Pics">
+<img height=300px src="Post Pics/Post-13 Day-26/day26.gif">
 
 ---
 
@@ -609,7 +609,7 @@ Have you explored GUI programming with Tkinter? Share your thoughts and experien
 
 🚀 #Python #100DaysOfCode #Tkinter #GUIProgramming #CodingJourney #LearningInPublic
 
-<img height=300px src="Post Pics">
+<img height=300px src="Post Pics/Post-14 Day-27/day27.gif">
 
 ---
 
@@ -655,7 +655,7 @@ Have you ever used a Pomodoro Timer for productivity? What’s your go-to tool f
 
 🚀 #Python #100DaysOfCode #Tkinter #PomodoroTimer #GUIProgramming #CodingJourney #LearningInPublic
 
-<img height=300px src="Post Pics">
+<img height=300px src="Post Pics/Post-15 Day-28/day28.gif">
 
 ---
 
@@ -700,7 +700,7 @@ What features do you think a robust password manager should have? Drop your sugg
 
 🚀 #Python #100DaysOfCode #PasswordManager #Tkinter #GUIProgramming #Cybersecurity #CodingJourney #LearningInPublic
 
-<img height=300px src="Post Pics">
+<img height=300px src="Post Pics/Post-16 Day-29/day29.gif">
 
 ---
 
@@ -743,6 +743,6 @@ What’s your go-to technique for managing errors in code? Let’s exchange idea
 
 🚀 #Python #100DaysOfCode #ErrorHandling #JSON #Tkinter #GUIProgramming #CodingJourney #LearningInPublic
 
-<img height=300px src="Post Pics">
+<img height=300px src="Post Pics/Post-17 Day-30/day30.gif">
 
 ---
