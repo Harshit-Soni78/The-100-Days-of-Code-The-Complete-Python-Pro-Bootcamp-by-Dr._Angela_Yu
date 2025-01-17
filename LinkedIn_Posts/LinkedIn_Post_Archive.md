@@ -505,6 +505,10 @@ Key Achievements:
   - Created an interactive game that challenges users to name all 50 U.S. states.
   - Used Pandas to handle user inputs and save data dynamically to a CSV file.
 
+- 5️⃣ India States Game:
+  - Created an interactive game that challenges users to name all states of India.
+  - Used Pandas to handle user inputs and save data dynamically to a CSV file.
+
 🔗 Explore the Repository: <https://github.com/Harshit-Soni78/The-100-Days-of-Code-The-Complete-Python-Pro-Bootcamp-by-Dr._Angela_Yu>
 
 📂 Please visit my GitHub Profile to view my work:- <https://github.com/Harshit-Soni78>
@@ -518,6 +522,7 @@ Day 25 introduced me to the power of Pandas and the practicality of working with
 🚀 #Python #100DaysOfCode #CodingJourney #PandasLibrary #DataAnalysis #LearningInPublic
 
 <img height=300px src="Post Pics/Post-12 Day-25/day25.gif">
+<img height=300px src="Post Pics/Post-12 Day-25/india_map_learn.gif">
 
 ---
 
