@@ -751,3 +751,361 @@ What’s your go-to technique for managing errors in code? Let’s exchange idea
 <img height=300px src="Post Pics/Post-17 Day-30/day30.gif">
 
 ---
+
+## Post-18 Day-31
+
+🎉 Day 31 of 100 Days of Code: Flash Card App Capstone Project 🃏
+
+Today was all about designing, building, and completing the Flash Card App Capstone Project—a fun and educational tool to learn and retain information interactively!
+
+Day 31 Highlights
+
+🛠 Goals for the Day: Create a fully functional Flash Card application using Tkinter.
+
+Key Steps in the Journey
+
+- 1️⃣ Creating the User Interface (UI):
+  - Designed a clean and user-friendly UI with Tkinter.
+  - Made sure the layout was intuitive and visually appealing.
+
+- 2️⃣ Developing Flash Card Features:
+  - Built functionality for generating new flash cards to enhance the learning experience.
+  - Implemented a card-flipping mechanism to display the question and reveal the answer interactively.
+
+- 3️⃣ Progress Tracking:
+  - Added functionality to save user progress, ensuring learning continuity over multiple sessions.
+
+🔗 Explore the Repository: <https://github.com/Harshit-Soni78/The-100-Days-of-Code-The-Complete-Python-Pro-Bootcamp-by-Dr._Angela_Yu>
+
+📂 Please visit my GitHub Profile to view my work:- <https://github.com/Harshit-Soni78>
+
+Reflection
+
+This project was a perfect culmination of my skills in Python, Tkinter, and file handling. It reminded me how powerful coding can be in creating tools that make learning more engaging and effective.
+
+Building projects like this Flash Card App makes programming even more exciting! 🚀
+
+Have you ever built or used an app for learning? Let me know your experience in the comments! 😊
+
+🚀 #Python #100DaysOfCode #FlashCardApp #Tkinter #GUIProgramming #CapstoneProject #CodingJourney #LearningInPublic
+
+## Post-19 Day-32
+
+🎉 Day 32 of 100 Days of Code: Email Automation and Date Management 📧📅
+
+Exploring the world of email automation and date management with Python has been an exciting and rewarding experience! Today's journey added powerful tools to my programming arsenal, helping me automate tasks like sending emails and managing dates dynamically.
+
+Day 32 Highlights
+
+🛠 Goals for the Day: Learn to send emails programmatically using Python, handle dates with the datetime module, and build two exciting projects.
+
+Key Lessons and Challenges
+
+- 1️⃣ Sending Emails with SMTP:
+  - Configured Python to send emails using the smtplib library.
+  - Learned about Google SMTP port configurations and sending secure emails.
+
+- 2️⃣ Working with Dates:
+  - Mastered the datetime module to manipulate and format dates.
+
+- 3️⃣ Projects Built:
+  - Motivational Quote Sender: Automatically sends motivational quotes every Monday via email—spreading positivity with code!
+  - Automated Birthday Wisher: Sends personalized birthday greetings with a single run.
+
+- 4️⃣ Running Code in the Cloud:
+  - Learned how to execute Python scripts in the cloud for seamless automation.
+
+🔗 Explore the Repository: <https://github.com/Harshit-Soni78/The-100-Days-of-Code-The-Complete-Python-Pro-Bootcamp-by-Dr._Angela_Yu>
+
+📂 Please visit my GitHub Profile to view my work:- <https://github.com/Harshit-Soni78>
+
+Reflection
+
+Automation has always fascinated me, and today’s projects demonstrated how a few lines of Python can save time, create impact, and even make someone's day brighter! This day was a great mix of learning, coding, and building real-world tools.
+
+Have you used automation in your projects? Share your stories in the comments! 😊
+
+🚀 #Python #100DaysOfCode #EmailAutomation #SMTP #MotivationalQuotes #BirthdayWisher #CodingJourney #LearningInPublic
+
+## Post-20 Day-33
+
+🚀 Day 33 of 100 Days of Code: Mastering APIs & Building an ISS Overhead Notifier 🌍🛰
+
+APIs are the backbone of modern applications, and today, I dove deep into API endpoints, parameters, and responses while building some fun and practical projects!
+
+Day 33 Highlights
+
+🛠 Goals for the Day: Understand how APIs work, interact with API endpoints, parse responses, and build an ISS (International Space Station) Overhead Notifier!
+
+Key Lessons and Challenges
+
+- 1️⃣ What Are APIs?
+  - Learned the basics of Application Programming Interfaces and how they enable interaction between software systems.
+
+- 2️⃣ API Endpoints & Calls:
+  - Explored how to make API requests and handle responses, including HTTP status codes and exceptions.
+
+- 3️⃣ Fun Projects Built:
+  - Kanye Quotes App: Fetches inspirational quotes from the Kanye Rest API—because wisdom can come from anywhere! 😉
+  - ISS Overhead Notifier: Notifies when the ISS is overhead and the sky is clear to view it. A combination of API parameters, sunset data, and geolocation magic!
+
+🔗 Explore the Repository: <https://github.com/Harshit-Soni78/The-100-Days-of-Code-The-Complete-Python-Pro-Bootcamp-by-Dr._Angela_Yu>
+
+📂 Please visit my GitHub Profile to view my work:- <https://github.com/Harshit-Soni78>
+
+Reflection
+
+Today’s journey was about turning data into action. Learning to integrate APIs into projects opens up endless possibilities—whether it’s real-time notifications, weather updates, or just fun apps like Kanye quotes!
+
+APIs bring the world of information to your fingertips—what’s the coolest API project you’ve built? Let’s share and inspire each other!
+
+🚀 #100DaysOfCode #Python #APIs #ISSNotifier #KanyeQuotesApp #CodingJourney #LearningInPublic
+
+## Post-21 Day-34
+
+🎉 Day 34 of 100 Days of Code: Building a GUI Quiz App with API Integration 🧠💻
+
+Today was all about combining API practice with GUI development to create an interactive and fun project—a Trivia Quiz App! 🚀
+
+Day 34 Highlights
+
+🛠 Goals for the Day: Use an API to fetch trivia questions, create a user-friendly GUI, and implement features like feedback and scoring.
+
+Key Lessons and Challenges
+
+- 1️⃣ Trivia Question API Challenge:
+  - Learned how to fetch and parse trivia questions from an API to populate the quiz.
+
+- 2️⃣ Unescaping HTML Entities:
+  - Ensured special characters in questions display correctly in the GUI.
+
+- 3️⃣ Class-Based Tkinter UI:
+  - Used OOP principles to build a modular, scalable GUI.
+
+- 4️⃣ Typing in Python:
+  - Implemented type hints for better code readability and maintainability.
+
+- 5️⃣ Feedback and Scoring:
+  - Added real-time feedback for correct/incorrect answers and a scoreboard for user engagement.
+
+🔗 Explore the Repository: <https://github.com/Harshit-Soni78/The-100-Days-of-Code-The-Complete-Python-Pro-Bootcamp-by-Dr._Angela_Yu>
+
+📂 Please visit my GitHub Profile to view my work:- <https://github.com/Harshit-Soni78>
+
+Reflection
+
+Today’s project was an exciting step forward in combining APIs with user-centric application design. Building this quiz app highlighted the importance of clean UI/UX and how APIs can enhance interactivity.
+
+What’s a fun project you’ve built using APIs or GUI frameworks like Tkinter? Let’s connect and share ideas! 💡
+
+🚀 #100DaysOfCode #Python #APIs #GUIDevelopment #Tkinter #QuizApp #LearningInPublic #CodingJourney
+
+## Post-22 Day-35
+
+🌟 Day 35 of 100 Days of Code: Exploring API Authentication and Sending SMS with Python 📲🔐
+
+Another productive day as I ventured deeper into APIs, authentication, and automation! Today’s project centered around building a weather notification system and sending SMS alerts using Python.
+
+Day 35 Highlights
+
+🛠 Goals for the Day: Understand API authentication, work with environment variables for security, and send notifications via SMS/WhatsApp.
+
+Key Lessons and Projects
+
+- 1️⃣ API Authentication:
+  - Explored why API authentication is essential and how to securely authenticate using API keys.
+
+- 2️⃣ OpenWeatherMap API Challenge:
+  - Integrated weather data to check if it will rain in the next 12 hours. ☔
+
+- 3️⃣ Twilio API for SMS Alerts:
+  - Sent automated weather updates via SMS. For those who can’t use SMS, explored the WhatsApp API as an alternative.
+
+- 4️⃣ Environment Variables:
+  - Learned how to hide sensitive API keys using environment variables for secure coding practices.
+
+- 5️⃣ Automation with PythonAnywhere:
+  - Deployed the Python script on PythonAnywhere to automate weather notifications. 🌐
+
+🔗 Explore the Repository: <https://github.com/Harshit-Soni78/The-100-Days-of-Code-The-Complete-Python-Pro-Bootcamp-by-Dr._Angela_Yu>
+
+📂 Please visit my GitHub Profile to view my work:- <https://github.com/Harshit-Soni78>
+
+Reflection
+
+Today was a big leap in understanding real-world applications of APIs and the importance of securely handling sensitive information. It’s exciting to see how small scripts can make life more convenient by automating routine tasks!
+
+What’s your favorite API to work with? Let’s discuss and explore together! 🌟
+
+🚀 #100DaysOfCode #Python #APIs #Automation #Twilio #OpenWeatherMap #WeatherApp #LearningInPublic #CodingJourney
+
+## Post-23 Day-36
+
+🌟 Day 36 of 100 Days of Code: Stock Trading News Alert Project 📈📰
+
+Today was all about combining the power of APIs, automation, and real-time updates to create a Stock Trading News Alert system. This project brought together stock price tracking, news aggregation, and SMS notifications to keep users informed about market movements.
+
+Day 36 Highlights
+
+🛠 Goals for the Day: Build a system to track stock price changes, fetch related news, and send timely alerts via SMS.
+
+Key Lessons and Projects
+
+- 1️⃣ Stock Price Tracking:
+  - Wrote a script to monitor significant stock price changes and identify movements worth investigating.
+
+- 2️⃣ Fetching News Articles:
+  - Used a news API to pull relevant and recent articles about the company in question. 📄
+
+- 3️⃣ SMS Notifications:
+- Automated the delivery of stock-related news updates via SMS using the Twilio API.
+
+Step-by-Step Progress:
+
+- ✅ Step 1: Check for stock price movements beyond a set threshold.
+- ✅ Step 2: Gather the latest news articles when significant changes are detected.
+- ✅ Step 3: Notify users with concise alerts via SMS.
+
+🔗 Explore the Repository: <https://github.com/Harshit-Soni78/The-100-Days-of-Code-The-Complete-Python-Pro-Bootcamp-by-Dr._Angela_Yu>
+
+📂 Please visit my GitHub Profile to view my work:- <https://github.com/Harshit-Soni78>
+
+Reflection
+
+This project highlighted the real-world applications of Python in finance and news delivery. Automating stock alerts is just the beginning—imagine the possibilities when combining APIs with innovative ideas!
+
+Have you tried building a project that integrates multiple APIs? Share your experience in the comments! 🌟
+
+🚀 #100DaysOfCode #Python #StockTrading #APIs #Automation #Twilio #Finance #LearningInPublic #CodingJourney
+
+## Post-24 Day-37
+
+🌟 Day 37 of 100 Days of Code: Habit Tracking Project 📊📅
+
+Today, I delved into building a Habit Tracking Project using API integrations and HTTP requests. This was a hands-on experience that showcased the power of automation and data visualization in forming and maintaining habits.
+
+Day 37 Highlights
+
+🛠 Goals for the Day: Create a habit tracker app using APIs and automate updates with HTTP requests.
+
+Key Lessons and Projects
+
+- 1️⃣ HTTP Post Requests:
+  - Learned how to send data to an API endpoint to create a new resource.
+
+- 2️⃣ Advanced Authentication:
+  - Implemented secure API access using HTTP headers. 🔐
+
+- 3️⃣ Challenge: Add a Pixel to the Habit Tracker:
+  - Automated daily progress updates on the habit tracker.
+
+- 4️⃣ Autofill Dates with Python:
+  - Used strftime to automatically populate today's date for seamless tracking.
+
+- 5️⃣ HTTP Put & Delete Requests:
+  - Explored how to update and delete data from an API dynamically.
+
+🔗 Explore the Repository: <https://github.com/Harshit-Soni78/The-100-Days-of-Code-The-Complete-Python-Pro-Bootcamp-by-Dr._Angela_Yu>
+
+📂 Please visit my GitHub Profile to view my work:- <https://github.com/Harshit-Soni78>
+
+Reflection
+
+This project was an exciting step into building systems that promote consistency and personal growth. By leveraging APIs, I learned how to create tools that not only track habits but also inspire progress through automation.
+
+Have you explored habit tracking or API projects? Let me know your thoughts in the comments! 🚀
+
+🚀 #100DaysOfCode #Python #API #HabitTracking #Automation #LearningInPublic #CodingJourney
+
+## Post-25 Day-38
+
+🌟 Day 38 of 100 Days of Code: Workout Tracking with Google Sheets 🏋️‍♂️📊
+
+Today, I combined the power of natural language processing, APIs, and Google Sheets to create a Workout Tracking App. This project was an incredible way to explore how technology can help automate fitness tracking and simplify everyday tasks.
+
+Day 38 Highlights
+
+🛠 Goals for the Day: Build an app that logs workout data into Google Sheets using APIs.
+
+Key Lessons and Projects
+
+- 1️⃣ API Credentials & Google Spreadsheet Setup:
+  - Configured API access and created a dedicated Google Spreadsheet for tracking workouts.
+
+- 2️⃣ Exercise Stats with Natural Language Queries:
+  - Used APIs to fetch workout stats by simply typing natural language inputs like "ran 5km" or "lifted weights for 30 minutes."
+
+- 3️⃣ Integrating with Sheety:
+  - Set up Sheety to streamline data storage and interaction with Google Sheets.
+
+- 4️⃣ Saving Data into Google Sheets:
+  - Automated the process of logging workout stats directly into a spreadsheet with a simple API call.
+
+- 5️⃣ API Authentication with Sheety:
+  - Secured the API with proper authentication for reliable data handling.
+
+- 6️⃣ Environment Variables:
+  - Learned how to securely store API keys and sensitive information using environment variables. 🔒
+
+🔗 Explore the Repository: <https://github.com/Harshit-Soni78/The-100-Days-of-Code-The-Complete-Python-Pro-Bootcamp-by-Dr._Angela_Yu>
+
+📂 Please visit my GitHub Profile to view my work:- <https://github.com/Harshit-Soni78>
+
+Reflection
+
+Fitness meets technology! This project made me realize the potential of APIs in simplifying routine tasks like fitness tracking. Automating such tasks lets you focus on what truly matters—staying fit and consistent. 💪
+
+How do you track your workouts? Would you try automating it? Share your thoughts in the comments!
+
+🚀 #100DaysOfCode #Python #API #FitnessTracking #Automation #LearningInPublic #CodingJourney
+
+## Post-26 Day-39,40
+
+✈️ Days 39 & 40 of 100 Days of Code: Flight Deal Finder & Flight Club 💸🌍
+
+I'm thrilled to share the culmination of another exciting chapter in my 100 Days of Code journey! Over these two days, I built a comprehensive Flight Deal Finder and Flight Club, combining multiple APIs and Google Sheets to create an automated system for finding and sharing travel deals.
+
+Highlights of Days 39 & 40
+
+Day 39: Flight Deal Finder
+
+💡 Goals: Build a system to track flight deals and alert users when prices drop.
+
+- 1️⃣ Data Management with Sheety:
+  - Integrated Sheety to read/write data directly from a Google Sheet.
+
+- 2️⃣ Retrieve IATA Codes:
+  - Used Amadeus API to fetch IATA codes for destinations.
+
+- 3️⃣ Flight Price Comparison:
+  - Built a system to search for cheap flights and compare them against stored prices.
+
+- 4️⃣ Notifications:
+  - Sent alerts via SMS/Email when a flight deal was better than the stored price.
+
+Day 40: Flight Club
+
+💡 Goals: Create a sharable flight deal service.
+
+- 1️⃣ Sharable Form Setup:
+  - Designed a form linked to a Google Sheet for users to join the flight club.
+
+- 2️⃣ Customer Email Retrieval:
+  - Automated customer email collection and storage.
+
+- 3️⃣ Email Notifications:
+  - Built a system to email flight deals to all customers in the club.
+
+🔗 Explore the Repository: <https://github.com/Harshit-Soni78/The-100-Days-of-Code-The-Complete-Python-Pro-Bootcamp-by-Dr._Angela_Yu>
+
+📂 Please visit my GitHub Profile to view my work:- <https://github.com/Harshit-Soni78>
+
+Reflection
+
+These projects pushed me to the next level of integrating APIs, managing user data, and automating real-world tasks. Creating a system that could help travelers save money while improving my coding skills was incredibly fulfilling. 🌟
+
+Are you a frequent traveler? How cool would it be to receive real-time alerts about the best flight deals? Let me know in the comments! 💬
+
+🚀 #100DaysOfCode #Python #APIs #Automation #CodingJourney #FlightDeals #LearningInPublic
+
+## Post-27 Day-41
