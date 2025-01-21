@@ -789,6 +789,8 @@ Have you ever built or used an app for learning? Let me know your experience in 
 
 🚀 #Python #100DaysOfCode #FlashCardApp #Tkinter #GUIProgramming #CapstoneProject #CodingJourney #LearningInPublic
 
+<img height=300px src="Post Pics/Post-18 Day-31/Day-31.gif">
+
 ## Post-19 Day-32
 
 🎉 Day 32 of 100 Days of Code: Email Automation and Date Management 📧📅
@@ -827,6 +829,9 @@ Have you used automation in your projects? Share your stories in the comments! �
 
 🚀 #Python #100DaysOfCode #EmailAutomation #SMTP #MotivationalQuotes #BirthdayWisher #CodingJourney #LearningInPublic
 
+<img height=300px src="Post Pics/Post-19 Day-32/Birthday-Wisher.png">
+<img height=300px src="Post Pics/Post-19 Day-32/Monday-Motivation-Project.png">
+
 ## Post-20 Day-33
 
 🚀 Day 33 of 100 Days of Code: Mastering APIs & Building an ISS Overhead Notifier 🌍🛰
@@ -860,6 +865,10 @@ Today’s journey was about turning data into action. Learning to integrate APIs
 APIs bring the world of information to your fingertips—what’s the coolest API project you’ve built? Let’s share and inspire each other!
 
 🚀 #100DaysOfCode #Python #APIs #ISSNotifier #KanyeQuotesApp #CodingJourney #LearningInPublic
+
+<img height=300px src="Post Pics/Post-20 Day-33/Sunrise--Sunset.png">
+<img height=300px src="Post Pics/Post-20 Day-33/ISS-Overhead.png">
+<img height=300px src="Post Pics/Post-20 Day-33/Day-33.gif">
 
 ## Post-21 Day-34
 
@@ -900,6 +909,8 @@ What’s a fun project you’ve built using APIs or GUI frameworks like Tkinter?
 
 🚀 #100DaysOfCode #Python #APIs #GUIDevelopment #Tkinter #QuizApp #LearningInPublic #CodingJourney
 
+<img height=300px src="Post Pics/Post-21 Day-34/Day-34.gif">
+
 ## Post-22 Day-35
 
 🌟 Day 35 of 100 Days of Code: Exploring API Authentication and Sending SMS with Python 📲🔐
@@ -938,6 +949,8 @@ Today was a big leap in understanding real-world applications of APIs and the im
 What’s your favorite API to work with? Let’s discuss and explore together! 🌟
 
 🚀 #100DaysOfCode #Python #APIs #Automation #Twilio #OpenWeatherMap #WeatherApp #LearningInPublic #CodingJourney
+
+<img height=300px src="Post Pics/Post-22 Day-35/Day-35-Weather-Message(Online).png">
 
 ## Post-23 Day-36
 
@@ -978,6 +991,8 @@ Have you tried building a project that integrates multiple APIs? Share your expe
 
 🚀 #100DaysOfCode #Python #StockTrading #APIs #Automation #Twilio #Finance #LearningInPublic #CodingJourney
 
+<img height=300px src="Post Pics/Post-23 Day-36/Day-36-Stock-News.png">
+
 ## Post-24 Day-37
 
 🌟 Day 37 of 100 Days of Code: Habit Tracking Project 📊📅
@@ -1016,6 +1031,8 @@ This project was an exciting step into building systems that promote consistency
 Have you explored habit tracking or API projects? Let me know your thoughts in the comments! 🚀
 
 🚀 #100DaysOfCode #Python #API #HabitTracking #Automation #LearningInPublic #CodingJourney
+
+<img height=300px src="Post Pics/Post-24 Day-37/Day-37-Habit-Tracker.png">
 
 ## Post-25 Day-38
 
@@ -1058,6 +1075,8 @@ Fitness meets technology! This project made me realize the potential of APIs in 
 How do you track your workouts? Would you try automating it? Share your thoughts in the comments!
 
 🚀 #100DaysOfCode #Python #API #FitnessTracking #Automation #LearningInPublic #CodingJourney
+
+<img height=300px src="Post Pics/Post-25 Day-38/Day-38-Workout-Tracker-(G-Sheet).png">
 
 ## Post-26 Day-39,40
 
@@ -1107,5 +1126,10 @@ These projects pushed me to the next level of integrating APIs, managing user da
 Are you a frequent traveler? How cool would it be to receive real-time alerts about the best flight deals? Let me know in the comments! 💬
 
 🚀 #100DaysOfCode #Python #APIs #Automation #CodingJourney #FlightDeals #LearningInPublic
+
+<video height="300" controls>
+<source src="Post Pics/Post-26 Day-39,40/Day-39.mp4" type="video/mp4">
+Your browser does not support the video
+</video>
 
 ## Post-27 Day-41
