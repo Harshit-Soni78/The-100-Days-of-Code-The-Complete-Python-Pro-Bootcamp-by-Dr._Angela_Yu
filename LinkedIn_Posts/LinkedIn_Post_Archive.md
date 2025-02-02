@@ -453,10 +453,12 @@ Day 24 Highlights
 Key Achievements:
 
 - 1️⃣ High Score Feature for Snake Game:
+
   - Added a high score system that stores and retrieves the highest score from a file.
   - Learned how to open, read, and write to files using the with keyword for clean and efficient coding.
 
 - 2️⃣ Mail Merge Challenge:
+
   - Automated a mailing system by merging names from a file into a template.
   - Explored relative and absolute file paths to manage directories seamlessly.
 
@@ -492,16 +494,20 @@ Day 25 Highlights
 Key Achievements:
 
 - 1️⃣ Reading CSV Data in Python:
+
   - Mastered reading and writing CSV files seamlessly.
 
 - 2️⃣ DataFrames and Series:
+
   - Worked with rows and columns using Pandas, one of the most powerful libraries for data manipulation.
 
 - 3️⃣ Squirrel Census Data Analysis:
+
   - Analyzed real-world data from the Great Squirrel Census using Pandas.
   - Gained hands-on experience in cleaning, filtering, and summarizing data.
 
 - 4️⃣ U.S. States Game:
+
   - Created an interactive game that challenges users to name all 50 U.S. states.
   - Used Pandas to handle user inputs and save data dynamically to a CSV file.
 
@@ -539,14 +545,17 @@ Day 26 Highlights
 Key Achievements:
 
 - 1️⃣ List Comprehensions Made Easy:
+
   - Mastered creating lists using concise and efficient syntax.
   - Completed coding exercises like Squaring Numbers, Filtering Even Numbers, and Data Overlap.
 
 - 2️⃣ Dictionary Comprehension:
+
   - Learned how to create dictionaries dynamically.
   - Practiced with exercises to solidify my understanding.
 
 - 3️⃣ Iterating Over Pandas DataFrames:
+
   - Explored advanced data manipulation techniques with Pandas.
 
 - 4️⃣ The NATO Alphabet Project:
@@ -579,20 +588,23 @@ Day 27 was a deep dive into the world of Graphical User Interfaces (GUI) with Py
 
 Day 27 Highlights
 
-🛠 Goals for the Day: Learn the fundamentals of building GUI applications and understand the use of *args, **kwargs, and optional arguments in Python.
+🛠 Goals for the Day: Learn the fundamentals of building GUI applications and understand the use of \*args, \*\*kwargs, and optional arguments in Python.
 
 Key Achievements
 
 - 1️⃣ Understanding GUI Development:
+
   - Explored the history of GUI and the role of Tkinter.
   - Learned to create Windows and Labels and work with different widgets.
 
 - 2️⃣ Advanced Python Functionality:
-  - Mastered the use of *args for handling multiple positional arguments.
-  - Learned **kwargs to manage keyword arguments effectively.
+
+  - Mastered the use of \*args for handling multiple positional arguments.
+  - Learned \*\*kwargs to manage keyword arguments effectively.
   - Completed quizzes on default values, args, and kwargs to strengthen my understanding.
 
 - 3️⃣ Interactive Tkinter Widgets:
+
   - Worked with Buttons, Entry fields, Radiobuttons, Scales, and more!
   - Experimented with Tkinter layout managers: pack(), place(), and grid().
 
@@ -631,14 +643,17 @@ Day 28 Highlights
 Key Achievements
 
 - 1️⃣ Canvas Widget Mastery:
+
   - Learned to work with the Canvas widget in Tkinter.
   - Added images to the GUI for an engaging user interface.
 
 - 2️⃣ User Interface Challenges:
+
   - Designed a polished and intuitive Pomodoro Timer UI.
   - Completed the challenge to enhance the app’s usability and aesthetics.
 
 - 3️⃣ Countdown Mechanism & Dynamic Typing:
+
   - Integrated a countdown mechanism to track work and break sessions.
   - Explored dynamic typing and its flexibility in Python programming.
 
@@ -677,14 +692,17 @@ Day 29 Highlights
 Key Milestones
 
 - 1️⃣ Creating a Polished User Interface (UI):
+
   - Worked with Canvas, grid layout, and columnspan to design an intuitive UI.
   - Integrated visuals using images to enhance user experience.
 
 - 2️⃣ Saving Data Securely:
+
   - Developed a feature to save user data to a file.
   - Ensured that sensitive information is stored systematically for easy retrieval.
 
 - 3️⃣ Dialog Boxes and Pop-Ups:
+
   - Implemented dialog boxes for seamless user interactions and error handling.
 
 - 4️⃣ Password Generation:
@@ -722,11 +740,13 @@ Day 30 Highlights
 Key Learnings and Achievements
 
 - 1️⃣ Mastering Error Handling:
+
   - Explored the try, except, else, finally pattern for handling exceptions effectively.
   - Raised custom exceptions to catch and fix specific issues.
   - Practiced exception handling through engaging coding exercises.
 
 - 2️⃣ JSON Data Integration:
+
   - Learned to read, write, and update JSON data.
   - Implemented JSON to store password information in a structured and secure way.
 
@@ -765,10 +785,12 @@ Day 31 Highlights
 Key Steps in the Journey
 
 - 1️⃣ Creating the User Interface (UI):
+
   - Designed a clean and user-friendly UI with Tkinter.
   - Made sure the layout was intuitive and visually appealing.
 
 - 2️⃣ Developing Flash Card Features:
+
   - Built functionality for generating new flash cards to enhance the learning experience.
   - Implemented a card-flipping mechanism to display the question and reveal the answer interactively.
 
@@ -804,13 +826,16 @@ Day 32 Highlights
 Key Lessons and Challenges
 
 - 1️⃣ Sending Emails with SMTP:
+
   - Configured Python to send emails using the smtplib library.
   - Learned about Google SMTP port configurations and sending secure emails.
 
 - 2️⃣ Working with Dates:
+
   - Mastered the datetime module to manipulate and format dates.
 
 - 3️⃣ Projects Built:
+
   - Motivational Quote Sender: Automatically sends motivational quotes every Monday via email—spreading positivity with code!
   - Automated Birthday Wisher: Sends personalized birthday greetings with a single run.
 
@@ -845,9 +870,11 @@ Day 33 Highlights
 Key Lessons and Challenges
 
 - 1️⃣ What Are APIs?
+
   - Learned the basics of Application Programming Interfaces and how they enable interaction between software systems.
 
 - 2️⃣ API Endpoints & Calls:
+
   - Explored how to make API requests and handle responses, including HTTP status codes and exceptions.
 
 - 3️⃣ Fun Projects Built:
@@ -883,15 +910,19 @@ Day 34 Highlights
 Key Lessons and Challenges
 
 - 1️⃣ Trivia Question API Challenge:
+
   - Learned how to fetch and parse trivia questions from an API to populate the quiz.
 
 - 2️⃣ Unescaping HTML Entities:
+
   - Ensured special characters in questions display correctly in the GUI.
 
 - 3️⃣ Class-Based Tkinter UI:
+
   - Used OOP principles to build a modular, scalable GUI.
 
 - 4️⃣ Typing in Python:
+
   - Implemented type hints for better code readability and maintainability.
 
 - 5️⃣ Feedback and Scoring:
@@ -924,15 +955,19 @@ Day 35 Highlights
 Key Lessons and Projects
 
 - 1️⃣ API Authentication:
+
   - Explored why API authentication is essential and how to securely authenticate using API keys.
 
 - 2️⃣ OpenWeatherMap API Challenge:
+
   - Integrated weather data to check if it will rain in the next 12 hours. ☔
 
 - 3️⃣ Twilio API for SMS Alerts:
+
   - Sent automated weather updates via SMS. For those who can’t use SMS, explored the WhatsApp API as an alternative.
 
 - 4️⃣ Environment Variables:
+
   - Learned how to hide sensitive API keys using environment variables for secure coding practices.
 
 - 5️⃣ Automation with PythonAnywhere:
@@ -965,9 +1000,11 @@ Day 36 Highlights
 Key Lessons and Projects
 
 - 1️⃣ Stock Price Tracking:
+
   - Wrote a script to monitor significant stock price changes and identify movements worth investigating.
 
 - 2️⃣ Fetching News Articles:
+
   - Used a news API to pull relevant and recent articles about the company in question. 📄
 
 - 3️⃣ SMS Notifications:
@@ -1006,15 +1043,19 @@ Day 37 Highlights
 Key Lessons and Projects
 
 - 1️⃣ HTTP Post Requests:
+
   - Learned how to send data to an API endpoint to create a new resource.
 
 - 2️⃣ Advanced Authentication:
+
   - Implemented secure API access using HTTP headers. 🔐
 
 - 3️⃣ Challenge: Add a Pixel to the Habit Tracker:
+
   - Automated daily progress updates on the habit tracker.
 
 - 4️⃣ Autofill Dates with Python:
+
   - Used strftime to automatically populate today's date for seamless tracking.
 
 - 5️⃣ HTTP Put & Delete Requests:
@@ -1047,18 +1088,23 @@ Day 38 Highlights
 Key Lessons and Projects
 
 - 1️⃣ API Credentials & Google Spreadsheet Setup:
+
   - Configured API access and created a dedicated Google Spreadsheet for tracking workouts.
 
 - 2️⃣ Exercise Stats with Natural Language Queries:
+
   - Used APIs to fetch workout stats by simply typing natural language inputs like "ran 5km" or "lifted weights for 30 minutes."
 
 - 3️⃣ Integrating with Sheety:
+
   - Set up Sheety to streamline data storage and interaction with Google Sheets.
 
 - 4️⃣ Saving Data into Google Sheets:
+
   - Automated the process of logging workout stats directly into a spreadsheet with a simple API call.
 
 - 5️⃣ API Authentication with Sheety:
+
   - Secured the API with proper authentication for reliable data handling.
 
 - 6️⃣ Environment Variables:
@@ -1091,12 +1137,15 @@ Day 39: Flight Deal Finder
 💡 Goals: Build a system to track flight deals and alert users when prices drop.
 
 - 1️⃣ Data Management with Sheety:
+
   - Integrated Sheety to read/write data directly from a Google Sheet.
 
 - 2️⃣ Retrieve IATA Codes:
+
   - Used Amadeus API to fetch IATA codes for destinations.
 
 - 3️⃣ Flight Price Comparison:
+
   - Built a system to search for cheap flights and compare them against stored prices.
 
 - 4️⃣ Notifications:
@@ -1107,9 +1156,11 @@ Day 40: Flight Club
 💡 Goals: Create a sharable flight deal service.
 
 - 1️⃣ Sharable Form Setup:
+
   - Designed a form linked to a Google Sheet for users to join the flight club.
 
 - 2️⃣ Customer Email Retrieval:
+
   - Automated customer email collection and storage.
 
 - 3️⃣ Email Notifications:
@@ -1132,4 +1183,564 @@ Are you a frequent traveler? How cool would it be to receive real-time alerts ab
 Your browser does not support the video
 </video>
 
-## Post-27 Day-41
+## Post-27 Day-41 to 44
+
+🌐 Days 41–44 of 100 Days of Code: Web Foundations - HTML & CSS 🎨💻
+
+Taking a step into the world of web development, I explored the fundamentals of HTML & CSS over these four days! 🚀 These are the building blocks of the web, and learning them has been a game-changer in understanding how websites function.
+
+Highlights of Days 41–44
+
+- Day 41: Introduction to HTML
+
+  - 📌 How the Internet & Websites Work
+  - 📌 Basic HTML Structure & Elements
+  - 📌 Project: Movie Ranking Website 🎬
+
+- Day 42: Intermediate HTML
+
+  - 📌 Lists, Nesting, & Indentation
+  - 📌 Anchor & Image Elements
+  - 📌 Project: Birthday Invite Website 🎂
+
+- Day 43: Introduction to CSS
+
+  - 📌 Why CSS is Important
+  - 📌 CSS Selectors & Styling
+  - 📌 Project: Colour Vocabulary Website 🎨
+
+- Day 44: Intermediate CSS
+  - 📌 Colors, Fonts, & the CSS Box Model
+  - 📌 Inspecting & Debugging CSS
+  - 📌 Project: Motivational Poster Website 🌟
+
+🔗 Explore the Repository: <https://github.com/Harshit-Soni78/The-100-Days-of-Code-The-Complete-Python-Pro-Bootcamp-by-Dr._Angela_Yu>
+
+📂 Please visit my GitHub Profile to view my work:- <https://github.com/Harshit-Soni78>
+
+Reflection
+
+Shifting from Python to web development has been an exciting transition! Understanding how the frontend works gives me a new appreciation for websites we interact with daily. Can't wait to dive deeper into styling and interactivity! 💡
+
+What was your first experience with HTML & CSS like? Drop your thoughts in the comments! 💬
+
+🚀 #100DaysOfCode #WebDevelopment #HTML #CSS #Frontend #CodingJourney #LearningByBuilding
+
+<img height=300px src="Post Pics/Post-27 Day-40 to 44/day44.png">
+
+## Post-28 Day-45
+
+🕵️‍♂️ Day 45 of 100 Days of Code: Web Scraping with Beautiful Soup 🍜💻
+
+Diving into web scraping was an exciting experience! 🌍 Extracting data from websites using Beautiful Soup opens up so many possibilities—automating tasks, gathering insights, and even building data-driven applications.
+
+Key Takeaways from Day 45
+
+- ✅ Parsing HTML & Making Soup 🍜
+- ✅ Finding & Selecting Elements efficiently
+- ✅ Scraping a Live Website for real-time data
+- ✅ Understanding Web Scraping Legality 🔐
+- ✅ Project: Scraped & compiled "100 Movies You Must Watch" 🎬
+
+🔗 Explore the Repository: <https://github.com/Harshit-Soni78/The-100-Days-of-Code-The-Complete-Python-Pro-Bootcamp-by-Dr._Angela_Yu>
+
+📂 Please visit my GitHub Profile to view my work:- <https://github.com/Harshit-Soni78>
+
+Reflection
+
+This was a game-changer in my journey! Web scraping is such a powerful tool, but it also comes with responsibilities—understanding ethical and legal considerations is key.
+
+💡 Have you ever used web scraping in a project? What challenges did you face? Let’s discuss in the comments! 🚀
+
+🚀 #100DaysOfCode #WebScraping #Python #BeautifulSoup #CodingJourney #Automation #DataScience
+
+## Post-29 Day-46
+
+🎵 Day 46 of 100 Days of Code: The Musical Time Machine 🚀🎶
+
+Ever wished you could travel back in time and listen to the hottest songs from any given year? That’s exactly what I built today—a Spotify playlist generator that scrapes Billboard’s Hot 100 and creates a playlist based on a user-specified date! 🔥
+
+Key Learnings from Day 46
+
+- ✅ Web Scraping Billboard’s Hot 100 using BeautifulSoup 📊
+- ✅ Authenticating with Spotify API 🔑
+- ✅ Searching Spotify for the top songs 🎼
+- ✅ Creating & Adding Songs to a Playlist automatically 🎧
+
+💡 How It Works:
+
+Simply enter a date (e.g., your birth year or any memorable time), and the script fetches the top 100 songs from Billboard and creates a Spotify playlist—bringing the past to life!
+
+🔗 Explore the Repository: <https://github.com/Harshit-Soni78/The-100-Days-of-Code-The-Complete-Python-Pro-Bootcamp-by-Dr._Angela_Yu>
+
+📂 Please visit my GitHub Profile to view my work:- <https://github.com/Harshit-Soni78>
+
+Reflection
+
+This project was so much fun! It combined web scraping, APIs, and automation to create something practical and engaging. Music lovers, this one's for you! 🎶
+
+👀 What songs were trending when you were born? Would you want them in a playlist? Let me know in the comments! ⬇️
+
+🚀 #100DaysOfCode #Python #WebScraping #SpotifyAPI #Automation #MusicTech #CodingJourney
+
+## Post-30 Day-47
+
+🛒 Day 47 of 100 Days of Code: Automated Amazon Price Tracker 💰📉
+
+Ever wished you could buy something at the best possible price without checking Amazon every day? Well, now you can! I built an Amazon Price Tracker that monitors product prices and sends an email alert when the price drops below a preset value! 🚀
+
+What I Built Today
+
+- ✅ Web Scraping with BeautifulSoup 🏗️
+- ✅ Extracting product prices from Amazon 📊
+- ✅ Adding Headers to Requests for better reliability
+- ✅ Automating Email Alerts when the price drops 📩
+
+🔗 Explore the Repository: <https://github.com/Harshit-Soni78/The-100-Days-of-Code-The-Complete-Python-Pro-Bootcamp-by-Dr._Angela_Yu>
+
+📂 Please visit my GitHub Profile to view my work:- <https://github.com/Harshit-Soni78>
+
+Why This is Useful?
+
+- 🔹 Helps you grab deals without manually checking prices
+- 🔹 Automates the process of finding discounts
+- 🔹 Can be expanded to track multiple products
+
+💡 Imagine setting up alerts for gadgets, books, or even groceries—never miss a deal again! 🚀
+
+Would you use an automated price tracker? Let me know in the comments! ⬇️
+
+🚀 #100DaysOfCode #Python #WebScraping #AmazonPriceTracker #Automation #CodingJourney #Deals
+
+## Post-31 Day-48
+
+🤖 Day 48 of 100 Days of Code: Automating the Web with Selenium! 🚀
+
+Ever wanted to control a browser with code? Or even build a bot to play a game for you? That’s exactly what I did today! Using Selenium WebDriver, I automated website interactions—from filling out forms to clicking buttons—AND even built a game-playing bot! 🎮
+
+What I Built Today
+
+- ✅ Installed & Set Up Selenium 🔧
+- ✅ Found & Selected Web Elements 🏗️
+- ✅ Scraped Website Data Automatically 📊
+- ✅ Automated Form Filling & Button Clicking 🖱️
+- ✅ Built a Cookie Clicker Game Bot 🍪🤖
+
+🔗 Explore the Repository: <https://github.com/Harshit-Soni78/The-100-Days-of-Code-The-Complete-Python-Pro-Bootcamp-by-Dr._Angela_Yu>
+
+📂 Please visit my GitHub Profile to view my work:- <https://github.com/Harshit-Soni78>
+
+Why Selenium is a Game-Changer?
+
+- 🔹 Automates repetitive tasks on the web
+- 🔹 Fills out forms and logs into websites automatically
+- 🔹 Can be used for testing web applications
+- 🔹 Even builds bots to play games or simulate users!
+
+I never thought automation could be this much fun! Have you ever used Selenium before? Let’s discuss in the comments! ⬇️
+
+🚀 #100DaysOfCode #Python #Selenium #WebAutomation #GameBot #CodingJourney #Automation #WebScraping
+
+## Post-32 Day-49
+
+🚀 Day 49 of 100 Days of Code: Automating Job Applications with Python! 🤖
+
+Imagine applying for jobs on LinkedIn automatically—logging in, searching for jobs, and even submitting applications with a single script! That’s exactly what I built today using Selenium.
+
+What I Automated Today
+
+- ✅ LinkedIn Login Automation 🔑
+- ✅ Searching for Job Listings 🏢
+- ✅ Filling Out Applications Automatically ✍️
+- ✅ Applying to Multiple Jobs at Once! 🚀
+
+🔗 Explore the Repository: <https://github.com/Harshit-Soni78/The-100-Days-of-Code-The-Complete-Python-Pro-Bootcamp-by-Dr._Angela_Yu>
+
+📂 Please visit my GitHub Profile to view my work:- <https://github.com/Harshit-Soni78>
+
+Why This is Powerful?
+
+- 🔹 Saves hours of manually applying to jobs
+- 🔹 Automates repetitive tasks so you can focus on interviews & networking
+- 🔹 A great intro to real-world web automation with Selenium
+
+Building this script made me realize how much automation can simplify our lives! Would you try automating job applications? Let’s discuss in the comments! ⬇️
+
+🚀 #100DaysOfCode #Python #Automation #Selenium #LinkedIn #JobSearch #WebScraping #CodingJourney
+
+## Post-33 Day-50
+
+🚀 Day 50 of 100 Days of Code: Automating Tinder Swipes with Python! 🔥🤖
+
+Ever wondered if Tinder swiping could be automated? Well, today, I built a Tinder Auto-Swiping Bot using Selenium—logging in, navigating, and even swiping automatically!
+
+What I Built Today
+
+- ✅ Automated Login via Facebook 🔐
+- ✅ Handled pop-ups & permissions ✅
+- ✅ Auto-swiped right with Selenium 👉
+- ✅ Potentially became the busiest Tinder user in history 😂
+
+🔗 Explore the Repository: <https://github.com/Harshit-Soni78/The-100-Days-of-Code-The-Complete-Python-Pro-Bootcamp-by-Dr._Angela_Yu>
+
+📂 Please visit my GitHub Profile to view my work:- <https://github.com/Harshit-Soni78>
+
+Why This Was Fun to Build?
+
+- 🔹 Hands-on experience with Selenium Web Automation
+- 🔹 Explored browser interactions & dynamic elements
+- 🔹 Applied real-world automation concepts in a fun way!
+
+This project was an exciting challenge—proving that anything on the web can be automated! Would you ever try automating something like this? Let’s discuss! ⬇️
+
+🚀 #100DaysOfCode #Python #Automation #Selenium #WebScraping #AI #CodingFun #TechInnovation #TinderBot 🚀
+
+## Post-34 Day-51
+
+🚀 Day 51 of #100DaysOfCode: Internet Speed Twitter Complaint Bot! 🐦⚡
+
+Ever been frustrated with slow internet speeds? Today, I built an automated Twitter bot that measures internet speed and tweets at the ISP if it’s below expectations! 📉💨
+
+What I Built Today
+
+- ✅ Checked internet speed automatically 📊
+- ✅ Used Selenium to log in to Twitter 🔐
+- ✅ Tweeted complaints to the ISP automatically 📝
+- ✅ Turned frustration into automation! 😆
+
+🔗 Explore the Repository: <https://github.com/Harshit-Soni78/The-100-Days-of-Code-The-Complete-Python-Pro-Bootcamp-by-Dr._Angela_Yu>
+
+📂 Please visit my GitHub Profile to view my work:- <https://github.com/Harshit-Soni78>
+
+Key Takeaways
+
+- 🔹 Worked with Selenium for web automation
+- 🔹 Used Speedtest API to fetch real-time speed data
+- 🔹 Integrated Twitter API to send automated tweets
+- 🔹 Built a fun and practical automation project!
+
+This was a great exercise in browser automation, API usage, and real-world problem-solving! What’s a daily task you’d love to automate? Let’s chat in the comments! ⬇️
+
+🚀 #Python #Automation #WebScraping #Selenium #TwitterBot #ISP #Tech #100DaysOfCode #CodingFun #InternetSpeed
+
+## Post-35 Day-52
+
+🚀 Day 52 of #100DaysOfCode: Instagram Follower Bot! 🤖📲
+
+Today, I built an Instagram automation bot that logs in, finds a target account’s followers, and follows them automatically! 🚀
+
+What I Built Today
+
+- ✅ Logged in to Instagram with Selenium 🔑
+- ✅ Scraped follower lists from a target account 📋
+- ✅ Automated following users 📈
+
+🔗 Explore the Repository: <https://github.com/Harshit-Soni78/The-100-Days-of-Code-The-Complete-Python-Pro-Bootcamp-by-Dr._Angela_Yu>
+
+📂 Please visit my GitHub Profile to view my work:- <https://github.com/Harshit-Soni78>
+
+Key Takeaways
+
+- 🔹 Used Selenium for browser automation 🖥️
+- 🔹 Implemented Instagram login and navigation 🔄
+- 🔹 Practiced handling pop-ups and scrolling automation 🔁
+- 🔹 Explored ethical considerations of automation in social media 🤔
+
+This project was a fun dive into web automation and social media bots! What’s a cool automation idea you’d love to build? Let’s discuss in the comments! ⬇️
+
+🚀 #Python #Automation #WebScraping #Selenium #InstagramBot #SocialMedia #Tech #100DaysOfCode #Coding
+
+## Post-36 Day-53
+
+🚀 Day 53 of #100DaysOfCode: Web Scraping Capstone - Data Entry Automation! 🤖💻
+
+Today, I worked on a real-world automation project that combines web scraping and data entry automation! This capstone project simulates an actual data entry job, automating tedious manual tasks with Python! 🚀
+
+What I Built Today
+
+- ✅ Extracted structured data from websites using BeautifulSoup/Selenium 🌐
+- ✅ Automated data entry tasks to save time & reduce manual effort ⏳
+- ✅ Built a hands-free workflow for filling online forms 📋
+
+🔗 Explore the Repository: <https://github.com/Harshit-Soni78/The-100-Days-of-Code-The-Complete-Python-Pro-Bootcamp-by-Dr._Angela_Yu>
+
+📂 Please visit my GitHub Profile to view my work:- <https://github.com/Harshit-Soni78>
+
+Key Takeaways
+
+- 🔹 Real-world web scraping applications 🚀
+- 🔹 Automating repetitive manual jobs with Python 🤖
+- 🔹 Optimizing workflows for efficiency and accuracy ⚡
+- 🔹 Handling real-world scraping challenges like dynamic content and captchas 🔍
+
+This capstone was an exciting way to bring all the automation skills together! Have you ever used web scraping to automate a task? Let’s discuss in the comments! ⬇️
+
+🚀 #Python #Automation #WebScraping #Selenium #BeautifulSoup #DataEntry #Tech #100DaysOfCode #Coding
+
+## Post-37 Day-54
+
+🚀 Day 54 of #100DaysOfCode: Introduction to Flask for Web Development! 🌍💻
+
+Diving into backend web development with Python, and today was all about Flask! 🏗️ I explored how web servers work and built my first Flask web app! 🚀
+
+What I Learned Today
+
+- ✅ Flask basics – Setting up a web server 🖥️
+- ✅ Understanding Python’s **name** and **main** attributes 🔍
+- ✅ Command-line essentials for running Flask apps 💻
+- ✅ Python functions as first-class objects & decorators 🔄
+
+🔗 Explore the Repository: <https://github.com/Harshit-Soni78/The-100-Days-of-Code-The-Complete-Python-Pro-Bootcamp-by-Dr._Angela_Yu>
+
+📂 Please visit my GitHub Profile to view my work:- <https://github.com/Harshit-Soni78>
+
+Key Takeaways
+
+- 🔹 Flask is lightweight & beginner-friendly! 💡
+- 🔹 Backend development made simple with Python 🐍
+- 🔹 Decorators help in writing cleaner, reusable code ⚡
+- 🔹 Excited to build more dynamic web apps! 🎯
+
+Super excited to continue this Flask journey! Have you built anything using Flask? Let’s connect and discuss! ⬇️
+
+🚀 #Python #Flask #WebDevelopment #100DaysOfCode #Coding #Backend #Tech
+
+## Post-38 Day-55
+
+🚀 Day 55 of #100DaysOfCode: Flask, HTML & URL Parsing! 🌍💻
+
+Taking my Flask skills to the next level by working with HTML rendering, URL paths, and Python decorators! 💡 Today’s project? The Higher or Lower Game 🎮🔼🔽
+
+What I Explored Today
+
+- ✅ Flask URL Paths & Debugging 🔗
+- ✅ Rendering HTML elements dynamically 🎨
+- ✅ Using Python decorators to style HTML tags 🏷️
+- ✅ Advanced decorators with \*args and \*\*kwargs 🔄
+- ✅ Built the Higher or Lower Game using Flask! 🎯
+
+🔗 Explore the Repository: <https://github.com/Harshit-Soni78/The-100-Days-of-Code-The-Complete-Python-Pro-Bootcamp-by-Dr._Angela_Yu>
+
+📂 Please visit my GitHub Profile to view my work:- <https://github.com/Harshit-Soni78>
+
+Key Takeaways
+
+- 🔹 Flask makes dynamic web apps easy! 🚀
+- 🔹 Python decorators can be super powerful 💡
+- 🔹 Excited to explore more backend web development! 🔥
+
+Would love to hear from others working with Flask—what's your favorite project so far? Drop your thoughts in the comments! ⬇️
+
+🚀 #Python #Flask #WebDevelopment #100DaysOfCode #Coding #Backend #Tech
+
+<img height=300px src="Post Pics/Post-38 Day-55/day55.gif">
+
+## Post-39 Day-56
+
+🚀 Day 56 of #100DaysOfCode: Flask + Website Templates! 🎨💻
+
+Today, I explored HTML rendering, serving static files, and using website templates in Flask! 🌐 These skills are essential for efficient web development, and I put them to the test by building a Name Card Website Template! 📇✨
+
+What I Learned Today
+
+- ✅ Rendering HTML files with Flask 🖥️
+- ✅ Serving static files (CSS, JS, images) using Flask 🎨
+- ✅ Leveraging website templates for faster development ⚡
+- ✅ Built a dynamic Name Card Website Template! 🔥
+
+🔗 Explore the Repository: <https://github.com/Harshit-Soni78/The-100-Days-of-Code-The-Complete-Python-Pro-Bootcamp-by-Dr._Angela_Yu>
+
+📂 Please visit my GitHub Profile to view my work:- <https://github.com/Harshit-Soni78>
+
+Key Takeaways
+
+- 🔹 Flask simplifies backend development! 🚀
+- 🔹 Website templates save time & enhance design! 🎨
+- 🔹 Static files are crucial for a complete web experience! 🏗️
+
+Excited to keep leveling up my Flask skills! 💡 What’s your go-to framework for web development? Let me know in the comments! ⬇️
+
+🚀 #Python #Flask #WebDevelopment #100DaysOfCode #Coding #Backend #Tech
+
+<img height=300px src="Post Pics/Post-39 Day-56/image.png">
+
+## Post-40 Day-57
+
+🚀 Day 57 of #100DaysOfCode: Dynamic Web Pages with Jinja & Flask! 🖥️🔥
+
+Today's focus was on Jinja templating—a game-changer for creating dynamic HTML pages in Flask applications! 🎨💡 I also took the first step towards a Flask-powered blog project! 📝✨
+
+What I Learned Today
+
+- ✅ Using Jinja to generate dynamic HTML 📜
+- ✅ Building URLs in Flask for seamless navigation 🔗
+- ✅ Combining Jinja templating with APIs ⚡
+- ✅ Handling multiline statements in Jinja 🏗️
+- ✅ Kickstarting the Blog Capstone Project (Part 1 - Templating!) 🚀
+
+🔗 Explore the Repository: <https://github.com/Harshit-Soni78/The-100-Days-of-Code-The-Complete-Python-Pro-Bootcamp-by-Dr._Angela_Yu>
+
+📂 Please visit my GitHub Profile to view my work:- <https://github.com/Harshit-Soni78>
+
+Key Takeaways
+
+- 🔹 Jinja makes Flask web apps super dynamic! 🎯
+- 🔹 Templating reduces redundancy & speeds up development! ⏩
+- 🔹 APIs + Jinja = powerful, data-driven web experiences! 🔥
+
+Excited to see this blog project take shape in the upcoming days! 🏗️ What’s your favorite web framework? Let’s discuss in the comments! ⬇️
+
+🚀 #Python #Flask #Jinja #WebDevelopment #100DaysOfCode #Coding #Backend #Tech
+
+<img height=300px src="Post Pics/Post-40 Day-57/day57.gif">
+
+## Post-41 Day-58
+
+🚀 Day 58 of #100DaysOfCode: Web Design with Bootstrap! 🎨💻
+
+Today, I dived into Bootstrap, one of the most popular front-end frameworks, to create a responsive and stylish startup website—TinDog! 🐶📱
+
+What I Learned Today
+
+- ✅ Bootstrap Layout & Grid System 🎭
+- ✅ Using Bootstrap Components for Faster UI Development ⚡
+- ✅ Making Web Pages Fully Responsive 📲
+- ✅ Building a Startup Landing Page from Scratch 🏗️
+
+🔗 Explore the Repository: <https://github.com/Harshit-Soni78/The-100-Days-of-Code-The-Complete-Python-Pro-Bootcamp-by-Dr._Angela_Yu>
+
+📂 Please visit my GitHub Profile to view my work:- <https://github.com/Harshit-Soni78>
+
+Key Takeaways
+
+- 🔹 Bootstrap speeds up development & ensures responsiveness! 🚀
+- 🔹 Pre-built components make UI design efficient! 🏆
+- 🔹 CSS frameworks like Bootstrap are a must-know for web devs! 🔥
+
+This was a fun hands-on experience, and I’m excited to build even more visually appealing web projects! What’s your go-to front-end framework? Let’s discuss! 👇
+
+🚀 #WebDevelopment #Bootstrap #Frontend #ResponsiveDesign #100DaysOfCode #Coding #Tech
+
+<img height=300px src="Post Pics/Post-41 Day-58/day58.gif">
+
+## Post-42 Day-59
+
+🚀 Day 59 of #100DaysOfCode: Styling & Enhancing My Blog Project! 🎨📝
+
+Today, I took my Blog Capstone Project to the next level by adding styling and dynamic content rendering with Flask & Jinja! 💡
+
+What I Worked On Today
+
+- ✅ Set up the home page and made it functional 🏡
+- ✅ Fixed the header & footer for a cleaner UI 🔧
+- ✅ Used Jinja templates to improve structure 📜
+- ✅ Created About & Contact pages 📄
+- ✅ Fetched & displayed blog posts dynamically using an API 🌐
+- ✅ Implemented individual post rendering for better navigation 🔗
+
+🔗 Explore the Repository: <https://github.com/Harshit-Soni78/The-100-Days-of-Code-The-Complete-Python-Pro-Bootcamp-by-Dr._Angela_Yu>
+
+📂 Please visit my GitHub Profile to view my work:- <https://github.com/Harshit-Soni78>
+
+Key Learnings
+
+- 🔹 Separation of concerns makes Flask apps more maintainable! 🏗️
+- 🔹 Jinja templating simplifies rendering dynamic content! 🔄
+- 🔹 APIs are powerful tools for fetching real-time data! ⚡
+
+Excited to build on this and take it even further! Have you worked with Flask & Jinja before? Let’s connect & discuss! 🚀
+
+🚀 #Flask #WebDevelopment #BlogProject #Jinja #APIs #100DaysOfCode #Python #Coding #Tech
+
+<img height=300px src="Post Pics/Post-42 Day-59/day59.gif">
+
+## Post-43 Day-60
+
+🚀 Day 60 of #100DaysOfCode: Handling POST Requests & Building a Contact Form! 📩💻
+
+Today, I leveled up my Flask skills by working with POST requests and HTML forms! 🔥
+
+What I Built Today
+
+- ✅ Created a contact form from scratch using HTML & Flask ✉️
+- ✅ Implemented POST requests to handle user input 📥
+- ✅ Connected the form to a Flask server for processing 🖥️
+- ✅ Sent emails automatically using smtplib 📧
+- ✅ Fully functional contact form that sends messages directly! 🚀
+
+🔗 Explore the Repository: <https://github.com/Harshit-Soni78/The-100-Days-of-Code-The-Complete-Python-Pro-Bootcamp-by-Dr._Angela_Yu>
+
+📂 Please visit my GitHub Profile to view my work:- <https://github.com/Harshit-Soni78>
+
+Key Takeaways
+
+- 🔹 Flask makes handling POST requests seamless! 🔄
+- 🔹 Connecting HTML forms to a backend is super powerful! 💡
+- 🔹 Automating emails using Python's smtplib is a game-changer! 📬
+
+One step closer to building fully functional web applications! Have you worked with Flask & forms before? Let’s connect and discuss! 🚀
+
+🚀 #Flask #WebDevelopment #Forms #Python #Backend #100DaysOfCode #Coding #Tech
+
+<img height=300px src="Post Pics/Post-43 Day-60/day59.1.gif">
+
+## Post-44 Day-61
+
+🚀 Day 61 of #100DaysOfCode: Building Advanced Forms with Flask-WTForms! 📝✨
+
+Today, I explored Flask-WTForms, a powerful tool for handling forms in Flask applications! 🔥
+
+What I Learned & Built Today
+
+- ✅ Installed and set up Flask-WTF 📦
+- ✅ Created dynamic forms using Flask-WTForms 📝
+- ✅ Added form validation to ensure proper input ✅
+- ✅ Used Jinja2 template inheritance to keep code clean ♻️
+- ✅ Integrated Bootstrap-Flask for a better UI 🎨
+
+🔗 Explore the Repository: <https://github.com/Harshit-Soni78/The-100-Days-of-Code-The-Complete-Python-Pro-Bootcamp-by-Dr._Angela_Yu>
+
+📂 Please visit my GitHub Profile to view my work:- <https://github.com/Harshit-Soni78>
+
+Key Takeaways
+
+- 🔹 Flask-WTF makes handling forms & validation super easy 🚀
+- 🔹 Jinja2 inheritance helps keep the front-end modular 🏗️
+- 🔹 Bootstrap-Flask speeds up styling & improves UX 💡
+
+This was a crucial step towards building full-stack Flask applications! Have you worked with Flask-WTForms before? Drop your experiences below! 👇
+
+🚀 #Flask #Python #WebDevelopment #Forms #100DaysOfCode #Tech #Coding
+
+<img height=300px src="Post Pics/Post-44 Day-61/day61.gif">
+
+## Post-45 Day-62
+
+🚀 Day 62 of #100DaysOfCode: Flask, WTForms, Bootstrap & CSV – Coffee & WiFi Project! ☕📶
+
+Today's challenge was about building a functional Flask app that allows users to add and view coffee shops with WiFi availability! 🏪💻
+
+What I Accomplished
+
+- ✅ Set up the Flask project structure 🏗️
+- ✅ Integrated WTForms to collect user inputs ✍️
+- ✅ Styled the UI with Bootstrap-Flask 🎨
+- ✅ Stored data in a CSV file for easy management 📊
+- ✅ Created a user-friendly Coffee & WiFi finder app ☕📍
+
+🔗 Explore the Repository: <https://github.com/Harshit-Soni78/The-100-Days-of-Code-The-Complete-Python-Pro-Bootcamp-by-Dr._Angela_Yu>
+
+📂 Please visit my GitHub Profile to view my work:- <https://github.com/Harshit-Soni78>
+
+Key Takeaways
+
+- 🔹 Flask + WTForms = Seamless form handling 📝
+- 🔹 Bootstrap-Flask makes UI design faster 🎨
+- 🔹 CSV as a database is simple yet effective for small projects 📄
+- 🔹 Full-stack projects help solidify backend + frontend concepts 💡
+
+This was an exciting hands-on project to apply Flask, forms, and data storage in a real-world scenario! Have you built something similar? Let’s discuss in the comments! 👇
+
+🚀 #Flask #Python #WebDevelopment #100DaysOfCode #Coding #Tech #FullStack
+
+<img height=300px src="Post Pics/Post-45 Day-62/day62.gif">
