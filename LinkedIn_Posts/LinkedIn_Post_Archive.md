@@ -1744,3 +1744,221 @@ This was an exciting hands-on project to apply Flask, forms, and data storage in
 🚀 #Flask #Python #WebDevelopment #100DaysOfCode #Coding #Tech #FullStack
 
 <img height=300px src="Post Pics/Post-45 Day-62/day62.gif">
+
+## Post-46 Day-63
+
+🚀 Day 63 of #100DaysOfCode: Databases with SQLite & SQLAlchemy! 📚💾
+
+Today, I dove into database integration with Flask, SQLite, and SQLAlchemy, building a virtual bookshelf 📖📚!
+
+What I Accomplished
+
+- ✅ Set up a Flask app with database functionality ⚙️
+- ✅ Learned about SQLite and how it manages data 🗄️
+- ✅ Explored SQLAlchemy ORM for database interaction 🔄
+- ✅ Implemented CRUD operations (Create, Read, Update, Delete) 📝
+- ✅ Integrated the database with Flask for seamless data handling 🔗
+
+🔗 Explore the Repository: <https://github.com/Harshit-Soni78/The-100-Days-of-Code-The-Complete-Python-Pro-Bootcamp-by-Dr._Angela_Yu>
+
+📂 Please visit my GitHub Profile to view my work:- <https://github.com/Harshit-Soni78>
+
+Key Takeaways
+
+- 🔹 SQLite + SQLAlchemy = A powerful combination for handling structured data 💪
+- 🔹 CRUD operations are the backbone of most web applications 🔄
+- 🔹 Databases make applications scalable and dynamic 🚀
+- 🔹 Every full-stack project improves backend, frontend, and database skills 💡
+
+Flask + databases = a game changer for dynamic web apps! Have you worked with SQLAlchemy before? Let’s discuss in the comments! 👇
+
+🚀 #Flask #Python #SQL #WebDevelopment #100DaysOfCode #Coding #Tech #FullStack
+
+## Post-47 Day-64
+
+🎬 Day 64 of #100DaysOfCode: My Top 10 Movies Website! 🍿🎥
+
+Today, I built a movie ranking web app using Flask, SQLite, and SQLAlchemy! Now, I can add, edit, delete, and rank movies in a fully functional database-driven web application.
+
+What I Accomplished
+
+- ✅ Created a movie list with dynamic database entries 🎞️
+- ✅ Implemented CRUD functionality for adding/editing/deleting movies 📝
+- ✅ Allowed users to rate and review movies ⭐
+- ✅ Added sorting functionality to rank movies by rating 🔢
+- ✅ Used Flask, SQLAlchemy, and SQLite for backend integration 🗄️
+
+🔗 Explore the Repository: <https://github.com/Harshit-Soni78/The-100-Days-of-Code-The-Complete-Python-Pro-Bootcamp-by-Dr._Angela_Yu>
+
+📂 Please visit my GitHub Profile to view my work:- <https://github.com/Harshit-Soni78>
+
+Key Takeaways
+
+- 🎬 Dynamic web apps become powerful when combined with databases!
+- 💡 SQLAlchemy makes database management easier and scalable
+- 🛠️ CRUD operations are fundamental in almost all web applications
+- 🚀 This project was a great full-stack development experience!
+
+What’s your top-rated movie of all time? Drop it in the comments! 🎞️👇
+
+🚀 #Flask #Python #SQL #WebDevelopment #100DaysOfCode #Coding #Tech #FullStack
+
+## Post-48 Day-65
+
+🎨 Day 65 of #100DaysOfCode: Web Design School - Crafting Beautiful & User-Friendly Websites! 🌐
+
+Today, I explored the fundamentals of web design—an essential skill that goes beyond just writing code. I learned how to create websites that are visually appealing, intuitive, and engaging for users.
+
+Key Lessons from Today
+
+- 🎨 Color Theory: Choosing the right colors to enhance user experience
+- 🔤 Typography: Selecting fonts that improve readability and aesthetics
+- 👀 UI Design: Managing attention and layout to create seamless interactions
+- 🧭 UX Design: Ensuring a website is intuitive and user-friendly
+- 🛠 Practical Web Design: Applying all these concepts in real-world projects
+
+🔗 Explore the Repository: <https://github.com/Harshit-Soni78/The-100-Days-of-Code-The-Complete-Python-Pro-Bootcamp-by-Dr._Angela_Yu>
+
+📂 Please visit my GitHub Profile to view my work:- <https://github.com/Harshit-Soni78>
+
+Why Web Design Matters?
+
+A well-designed website isn't just about aesthetics; it’s about usability, accessibility, and engagement. A great UI/UX ensures users have a smooth and enjoyable experience, leading to better retention and satisfaction.
+
+🚀 Excited to apply these principles to my future projects!
+
+What’s your favorite website in terms of design? Drop a comment! 👇🎨
+
+🚀 #WebDesign #UIUX #100DaysOfCode #Coding #Tech #WebDevelopment #DesignMatters
+
+## Post-49 Day-66
+
+🚀 Day 66 of #100DaysOfCode: Building My Own REST API! 🌍
+
+APIs are the backbone of modern web applications, and today, I took a deep dive into RESTful routing by creating my very own API! From handling HTTP methods to testing with Postman, this day was all about structuring APIs efficiently.
+
+Key Takeaways
+
+- 🔹 Understanding REST: How APIs interact using standard HTTP methods
+- 📡 GET Requests: Fetching single and multiple records (random & all cafes)
+- 🛠 POST Requests: Adding new data (new cafe entry)
+- ✏️ PATCH vs. PUT: Updating records efficiently
+- 🗑 DELETE Requests: Removing records safely
+- 📑 API Documentation: Making APIs easy to use and understand
+
+🔗 Explore the Repository: <https://github.com/Harshit-Soni78/The-100-Days-of-Code-The-Complete-Python-Pro-Bootcamp-by-Dr._Angela_Yu>
+
+📂 Please visit my GitHub Profile to view my work:- <https://github.com/Harshit-Soni78>
+
+Why Learning REST APIs is Essential?
+
+APIs connect applications, allowing seamless integration between different platforms. Whether you're working on a web app, mobile app, or AI model, knowing how to build and consume APIs is a must-have skill for developers.
+
+💡 Excited to build even more powerful APIs in the future! Have you built an API before? Share your experience in the comments! 🚀👇
+
+🚀 #RESTAPI #WebDevelopment #100DaysOfCode #Coding #Tech #Python #Flask #SoftwareEngineering
+
+## Post-50 Day-67
+
+🚀 Day 67 of #100DaysOfCode: RESTful Routing for My Blog! 📖
+
+Today, I took my blog project to the next level by implementing RESTful routing, making it dynamic and interactive! Now, I can fetch, create, update, and delete blog posts using API endpoints.
+
+Key Highlights from Today’s Learning
+
+- ✅ GET Requests: Fetch and display blog posts dynamically
+- ✍ POST Requests: Add new blog posts through API calls
+- 🔄 PUT/PATCH Requests: Edit existing blog content
+- 🗑 DELETE Requests: Remove blog posts when needed
+
+🔗 Explore the Repository: <https://github.com/Harshit-Soni78/The-100-Days-of-Code-The-Complete-Python-Pro-Bootcamp-by-Dr._Angela_Yu>
+
+📂 Please visit my GitHub Profile to view my work:- <https://github.com/Harshit-Soni78>
+
+Why RESTful APIs are Game-Changers for Blogs?
+
+With RESTful APIs, blogs become scalable, flexible, and easy to integrate with front-end frameworks like React or mobile apps. Now, my blog can handle dynamic updates without reloading pages!
+
+💡 Have you ever built a blog with an API? Let’s discuss your experience in the comments! 👇
+
+🚀 #RESTAPI #WebDevelopment #100DaysOfCode #Python #Flask #BlogDevelopment #SoftwareEngineering #Coding
+
+## Post-51 Day-68
+
+🔐 Day 68 of #100DaysOfCode: Implementing Authentication with Flask! 🔥
+
+Today, I dived into user authentication, learning how to register, log in, and secure user data using Flask. Handling authentication properly is crucial for any web application, and I explored various techniques to make it robust.
+
+Key Takeaways from Today’s Learning:
+
+- ✅ User Registration & Login: Implemented a sign-up and authentication system
+- 🔒 Encryption & Hashing: Secured passwords using Werkzeug hashing & salting
+- 🛡 Flask-Login: Managed user sessions and authentication status
+- 💡 Flask Flash Messages: Provided real-time feedback to users
+
+🔗 Explore the Repository: <https://github.com/Harshit-Soni78/The-100-Days-of-Code-The-Complete-Python-Pro-Bootcamp-by-Dr._Angela_Yu>
+
+📂 Please visit my GitHub Profile to view my work:- <https://github.com/Harshit-Soni78>
+
+Why Authentication Matters?
+
+Authentication is a core security feature that ensures only authorized users can access certain parts of a website. Learning to implement it securely is essential for building scalable and safe applications.
+
+🚀 Next, I’ll be integrating authorization to control user access levels! Have you ever built an authentication system? Let’s discuss your experience! 👇
+
+🚀 #Flask #Python #Authentication #CyberSecurity #WebDevelopment #100DaysOfCode #SoftwareEngineering #Hashing #Encryption #FlaskLogin
+
+## Post-52 Day-69
+
+📝 Day 69 of #100DaysOfCode: Enhancing My Blog Project with User Authentication! 🚀
+
+Today’s focus was on adding user authentication and authorization to my Flask-based blog project. This step ensures that users can register, log in, and interact with the blog securely.
+
+Key Features Implemented Today:
+
+- ✅ User Registration & Login: Built an authentication system to allow users to sign up and log in.
+- 🔐 Protected Routes: Restricted access to certain pages based on authentication.
+- 🗄 Relational Databases: Linked users to their blog posts and comments.
+- 💬 User Comments: Enabled users to add comments to blog posts, enhancing interaction.
+
+🔗 Explore the Repository: <https://github.com/Harshit-Soni78/The-100-Days-of-Code-The-Complete-Python-Pro-Bootcamp-by-Dr._Angela_Yu>
+
+📂 Please visit my GitHub Profile to view my work:- <https://github.com/Harshit-Soni78>
+
+Why This Matters?
+
+Building a blog isn’t just about displaying content—it’s about creating an interactive platform where users can engage. With authentication and user management, I’m making this project more dynamic and secure!
+
+Next, I’ll be working on improving the UI and adding more functionalities. Stay tuned! 🚀
+
+Have you implemented authentication in a project? Share your experience below! 👇
+
+🚀 #Flask #Python #WebDevelopment #Authentication #Authorization #SQLAlchemy #100DaysOfCode #SoftwareEngineering #FlaskLogin
+
+## Post-53 Day-70
+
+🚀 Day 70 of #100DaysOfCode: Mastering Git & GitHub for Version Control! 🖥️
+
+Version control is a must-have skill for every developer, and today’s focus was all about Git and GitHub—essential tools for tracking changes, collaborating, and managing projects efficiently!
+
+What I Covered Today:
+
+- ✅ Git Basics: Understanding version control and how Git helps track changes.
+- ✅ GitHub & Remote Repositories: Pushing code, cloning repositories, and working with remote projects.
+- ✅ Branching & Merging: Managing multiple features in a project seamlessly.
+- ✅ Forking & Pull Requests: Contributing to open-source projects and collaborating with others.
+- ✅ Gitignore & Best Practices: Keeping unnecessary files out of the repo.
+
+🔗 Explore the Repository: <https://github.com/Harshit-Soni78/The-100-Days-of-Code-The-Complete-Python-Pro-Bootcamp-by-Dr._Angela_Yu>
+
+📂 Please visit my GitHub Profile to view my work:- <https://github.com/Harshit-Soni78>
+
+Why Git & GitHub Matter?
+
+Whether working solo or in a team, version control is the backbone of software development. Understanding Git not only improves workflow efficiency but also makes collaboration seamless—a skill every developer needs!
+
+Now that I have strengthened my Git skills, I’m all set for more structured and efficient coding! 💡
+
+Do you use Git daily? Share your favorite Git command below! 👇
+
+🚀 #Git #GitHub #VersionControl #100DaysOfCode #SoftwareDevelopment #Coding #OpenSource #WebDevelopment #GitCommands
