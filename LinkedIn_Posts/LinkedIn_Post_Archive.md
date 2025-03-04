@@ -1962,3 +1962,279 @@ Now that I have strengthened my Git skills, I’m all set for more structured an
 Do you use Git daily? Share your favorite Git command below! 👇
 
 🚀 #Git #GitHub #VersionControl #100DaysOfCode #SoftwareDevelopment #Coding #OpenSource #WebDevelopment #GitCommands
+
+## Post-54 Day-71
+
+🚀 Day 71 of #100DaysOfCode: Deploying My Web Application! 🌍
+
+After weeks of coding, today I took a crucial step—deploying my web application! 💻 Learning how to take a project from local development to a live, accessible website is an essential skill for every developer.
+
+What I Covered Today:
+
+- ✅ Version Control with Git: Managed project history efficiently 🔄
+- ✅ Environment Variables: Secured sensitive data 🔑
+- ✅ WSGI Server with Gunicorn: Improved performance & scalability ⚙️
+- ✅ GitHub for Remote Repositories: Seamless collaboration and backups 📂
+- ✅ Hosting My Web App: Set up a live web service 🌎
+- ✅ Upgrading SQLite to PostgreSQL: Made the database production-ready 🗄
+
+🔗 Explore the Repository: <https://github.com/Harshit-Soni78/The-100-Days-of-Code-The-Complete-Python-Pro-Bootcamp-by-Dr._Angela_Yu>
+
+📂 Please visit my GitHub Profile to view my work:- <https://github.com/Harshit-Soni78>
+
+Why Deployment is a Game-Changer?
+A project isn’t complete until it’s accessible to users. Learning to deploy, configure databases, and manage a production server bridges the gap between coding and real-world applications!
+
+🔥 Next step? Scaling and optimizing performance!
+
+Have you deployed a web app before? What hosting service do you prefer? Let’s discuss in the comments! 👇
+
+🚀 #WebDevelopment #Deployment #100DaysOfCode #Flask #Python #GitHub #SoftwareEngineering #FullStack #PostgreSQL #Gunicorn
+
+## Post-55 Day-72
+
+📊 Day 72 of #100DaysOfCode: Data Exploration with Pandas! 🔍
+
+Today, I explored data science fundamentals using Pandas by analyzing how college majors impact salaries. This hands-on experience in data cleaning, exploration, and analysis helped me extract valuable insights from real-world datasets.
+
+Key Takeaways from Today’s Learning:
+
+- ✅ Loaded & explored a dataset containing college majors & salaries 🎓💰
+- ✅ Data Cleaning with Pandas: Removed missing values & structured the data 🔄
+- ✅ Analyzed salary trends: Found the highest and lowest-earning degrees 📊
+- ✅ Sorting & Adding Columns: Identified majors with highest potential vs lowest risk 📈
+- ✅ Grouping & Pivoting Data: Discovered patterns & trends using aggregation functions 🔎
+
+🔗 Explore the Repository: <https://github.com/Harshit-Soni78/The-100-Days-of-Code-The-Complete-Python-Pro-Bootcamp-by-Dr._Angela_Yu>
+
+📂 Please visit my GitHub Profile to view my work:- <https://github.com/Harshit-Soni78>
+
+Why Data Exploration is Important?
+Data is everywhere! Being able to analyze, interpret, and derive insights from raw data is a powerful skill in data science, business intelligence, and machine learning.
+
+💡 Excited to dive deeper into data visualization and predictive analytics! 🚀
+
+What’s a dataset you’d love to analyze? Let’s discuss in the comments! 👇
+
+🚀 #DataScience #Pandas #Python #100DaysOfCode #MachineLearning #DataAnalysis #Tech
+
+## Post-56 Day-73
+
+📊 Day 73 of #100DaysOfCode: Data Visualization with Matplotlib! 📈
+
+Today, I explored data visualization techniques using Matplotlib, focusing on programming language trends over time. 📊 Visualizing data is a game-changer for understanding patterns, trends, and insights!
+
+Key Takeaways from Today’s Learning:
+
+- ✅ Preliminary Data Exploration: Cleaned & structured raw data 🔍
+- ✅ Analyzed Programming Language Trends: Discovered which languages gained/lost popularity 📊
+- ✅ Pivoting DataFrames: Reshaped data for better analysis
+- ✅ Time-Series Visualization: Created multi-line charts to track growth over time 📆
+- ✅ Smoothing Data: Applied techniques to make trends clearer 🔄
+
+🔗 Explore the Repository: <https://github.com/Harshit-Soni78/The-100-Days-of-Code-The-Complete-Python-Pro-Bootcamp-by-Dr._Angela_Yu>
+
+📂 Please visit my GitHub Profile to view my work:- <https://github.com/Harshit-Soni78>
+
+Why Data Visualization Matters?
+Data visualization transforms raw data into powerful insights. Whether you’re analyzing market trends, programming language usage, or business data, Matplotlib helps bring numbers to life!
+
+💡 Next up? Exploring more advanced visualization techniques! 🚀
+
+What’s your favorite data visualization library? Let’s discuss in the comments! 👇
+
+🚀 #DataScience #Matplotlib #Python #100DaysOfCode #DataVisualization #MachineLearning #Tech #Programming
+
+## Post-57 Day-74
+
+🧱 Day 74 of #100DaysOfCode: Analyzing the LEGO Dataset with Pandas! 📊
+
+Today, I worked with real-world data—the LEGO dataset—to practice data aggregation, merging, and visualization using Pandas. Analyzing datasets like this helps develop skills for data science and business analytics.
+
+Key Takeaways from Today’s Learning:
+
+- ✅ Explored LEGO Brick Colors: Analyzed unique colors across different sets 🎨
+- ✅ Found the Oldest & Largest LEGO Sets: Discovered historical LEGO trends 🕰
+- ✅ Visualized LEGO Set Releases Over Time: Used line charts to track growth 📈
+- ✅ Used Pandas’ agg() Function: Aggregated data to find key insights 📊
+- ✅ Merged DataFrames & Created Bar Charts: Learned about relational databases, primary & foreign keys 🔗
+- ✅ Created Scatter Plots: Analyzed the average number of parts per LEGO set
+
+🔗 Explore the Repository: <https://github.com/Harshit-Soni78/The-100-Days-of-Code-The-Complete-Python-Pro-Bootcamp-by-Dr._Angela_Yu>
+
+📂 Please visit my GitHub Profile to view my work:- <https://github.com/Harshit-Soni78>
+
+Why Data Analysis Matters?
+Working with real-world datasets like this improves data wrangling and visualization skills. Whether analyzing LEGO sets, stock prices, or business data, Pandas makes complex analysis easier!
+
+💡 Next, I’ll be working on more advanced data aggregation and visualization techniques! 🚀
+
+What’s your favorite dataset to analyze? Drop your thoughts below! 👇
+
+🚀 #DataScience #Pandas #Python #100DaysOfCode #DataAnalytics #MachineLearning #LEGO #DataVisualization #Tech
+
+## Post-58 Day-75
+
+📊 Day 75 of #100DaysOfCode: Analyzing Google Trends Data & Time Series Visualization! 📈
+
+Today, I explored Google Trends data and learned how to resample, clean, and visualize time-series data using Matplotlib and Pandas. Time-series analysis is essential for tracking trends, forecasting, and making data-driven decisions.
+
+Key Takeaways from Today’s Learning:
+
+- ✅ Explored Google Search Data: Analyzed trends in Tesla, Bitcoin, and Unemployment 📊
+- ✅ Resampled Time-Series Data: Cleaned and structured data for better analysis 📆
+- ✅ Visualized Tesla Trends: Created line charts to track fluctuations in search interest 📈
+- ✅ Formatted Time Axes with Locators & DateFormatters: Improved readability of graphs
+- ✅ Styled Bitcoin & Unemployment Charts: Used grid lines, markers, and colors to enhance data presentation 🎨
+
+🔗 Explore the Repository: <https://github.com/Harshit-Soni78/The-100-Days-of-Code-The-Complete-Python-Pro-Bootcamp-by-Dr._Angela_Yu>
+
+📂 Please visit my GitHub Profile to view my work:- <https://github.com/Harshit-Soni78>
+
+Why Time-Series Data Matters?
+From financial forecasting to social trends analysis, understanding patterns over time is a crucial skill in data science, business intelligence, and AI research.
+
+💡 Excited to dive deeper into predictive analytics and more advanced data visualization! 🚀
+
+Have you ever analyzed time-series data? What insights did you find? Let’s discuss in the comments! 👇
+
+🚀 #DataScience #TimeSeries #Python #Matplotlib #100DaysOfCode #DataAnalytics #MachineLearning #GoogleTrends #Tech
+
+## Post-59 Day-76
+
+📊 Day 76 of #100DaysOfCode: Data Visualization with Plotly & Android App Store Analysis! 📈
+
+Today, I explored data visualization with Plotly and analyzed the Android App Store dataset to uncover insights on app ratings, reviews, and popularity. Plotly’s interactive charts make it a powerful tool for data science and business analytics!
+
+Key Takeaways from Today’s Learning:
+
+- ✅ Data Cleaning: Removed NaN values, duplicates, and formatted data for analysis 🛠
+- ✅ Preliminary Exploration: Identified the highest-rated, most-reviewed, and largest apps 📊
+- ✅ Created Pie & Donut Charts with Plotly: Visualized app distribution across categories 🥧
+- ✅ Numeric Type Conversions: Cleaned installations & price data for better analysis 🔢
+- ✅ Bar Charts & Scatter Plots: Found the most competitive & popular app categories 📈
+- ✅ Extracted Nested Column Data using .stack() for advanced data manipulation
+- ✅ Grouped Bar Charts & Box Plots: Compared app categories in terms of ratings, downloads, and size
+
+🔗 Explore the Repository: <https://github.com/Harshit-Soni78/The-100-Days-of-Code-The-Complete-Python-Pro-Bootcamp-by-Dr._Angela_Yu>
+
+📂 Please visit my GitHub Profile to view my work:- <https://github.com/Harshit-Soni78>
+
+Why Data Visualization Matters?
+With vast amounts of data available today, effective visualization helps identify trends, make data-driven decisions, and communicate insights clearly. Plotly’s interactive graphs make exploring and presenting data even more intuitive!
+
+💡 Next up? Diving deeper into interactive dashboards & advanced analytics! 🚀
+
+Have you used Plotly before? What’s your favorite data visualization tool? Let’s discuss in the comments! 👇
+
+🚀 #DataScience #Plotly #Python #100DaysOfCode #DataVisualization #MachineLearning #Analytics #Tech
+
+## Post-60 Day-77
+
+📊 Day 77 of #100DaysOfCode: NumPy & N-Dimensional Arrays! 🚀
+
+Today, I explored NumPy, one of the most powerful libraries for scientific computing in Python. Working with N-dimensional arrays (ndarrays) allows for efficient data processing, making it essential for machine learning, image processing, and numerical computing.
+
+Key Takeaways from Today’s Learning:
+
+- ✅ Understanding NumPy's ndarray: The foundation of fast numerical computing in Python ⚡
+- ✅ Generating & Manipulating ndarrays: Created arrays, reshaped data, and performed operations 🔢
+- ✅ Broadcasting & Matrix Multiplication: Optimized array calculations for high-speed processing 🏎
+- ✅ Manipulating Images as ndarrays: Processed images using NumPy’s array-based approach 🖼
+
+🔗 Explore the Repository: <https://github.com/Harshit-Soni78/The-100-Days-of-Code-The-Complete-Python-Pro-Bootcamp-by-Dr._Angela_Yu>
+
+📂 Please visit my GitHub Profile to view my work:- <https://github.com/Harshit-Soni78>
+
+Why NumPy?
+NumPy accelerates computations and is the backbone of libraries like Pandas, SciPy, TensorFlow, and OpenCV. Whether it’s handling large datasets, scientific simulations, or deep learning, NumPy makes Python blazing fast!
+
+💡 Next, I’ll be diving deeper into advanced numerical operations & data analysis! 🚀
+
+Are you using NumPy in your projects? Share your experience in the comments! 👇
+
+🚀 #DataScience #NumPy #Python #100DaysOfCode #MachineLearning #DeepLearning #BigData #Tech
+
+## Post-61 Day-78
+
+📊 Day 78 of #100DaysOfCode: Linear Regression & Data Visualization with Seaborn! 🎬📈
+
+Today, I explored Linear Regression and Data Visualization using Seaborn & Scikit-Learn! These tools are essential for data analysis, predictive modeling, and machine learning. I worked with film industry data to uncover insights and trends.
+
+Key Takeaways from Today’s Learning:
+
+- ✅ Exploring & Cleaning Data: Identified missing values & anomalies 🔍
+- ✅ Investigating Films with Zero Revenue: Filtered outliers and inconsistencies 🎬
+- ✅ Filtering on Multiple Conditions: Analyzed international films 🌍
+- ✅ Seaborn Data Visualization: Created bubble charts for intuitive insights 📊
+- ✅ Floor Division Trick: Converted years into decades for trend analysis ⏳
+- ✅ Plotting Linear Regressions with Seaborn: Visualized relationships between variables 🔄
+- ✅ Using Scikit-Learn for Regression: Built and trained a predictive model 🤖
+
+🔗 Explore the Repository: <https://github.com/Harshit-Soni78/The-100-Days-of-Code-The-Complete-Python-Pro-Bootcamp-by-Dr._Angela_Yu>
+
+📂 Please visit my GitHub Profile to view my work:- <https://github.com/Harshit-Soni78>
+
+Why Linear Regression?
+Linear regression is one of the simplest yet most powerful tools in data science & machine learning. It helps in forecasting trends, making predictions, and understanding relationships between different variables.
+
+💡 Next, I’ll be diving into more complex regression models & advanced visualizations! 🚀
+
+What are your favorite Seaborn or Scikit-Learn tricks? Let’s discuss in the comments! 👇
+
+🚀 #DataScience #Seaborn #ScikitLearn #MachineLearning #LinearRegression #Python #100DaysOfCode #DataVisualization #BigData #Tech
+
+## Post-62 Day-79
+
+🏆 Day 79 of #100DaysOfCode: Analyzing Nobel Prize Trends with Data Visualization! 📊🌍
+
+Today, I took a deep dive into data visualization and analytics using Plotly, Matplotlib, and Seaborn to explore trends in Nobel Prize winners over the years! This dataset provided some fascinating insights into categories, demographics, and global distribution of the prestigious award.
+
+Key Takeaways from Today’s Learning:
+
+- 📌 Data Cleaning & Preprocessing: Updated packages & prepared data in Google Colab 🔄
+- 📌 Plotly Bar & Donut Charts: Analyzed prize categories & trends in female winners 📊
+- 📌 Matplotlib Trends Over Time: Visualized changes in prize distribution by year 📆
+- 📌 Choropleth Maps: Highlighted countries with the most Nobel Prizes 🗺️
+- 📌 Sunburst Charts: Explored regional research locations for Nobel Laureates ☀️
+- 📌 Age Analysis: Discovered patterns in the age of laureates at the time of winning 🎂
+
+🔗 Explore the Repository: <https://github.com/Harshit-Soni78/The-100-Days-of-Code-The-Complete-Python-Pro-Bootcamp-by-Dr._Angela_Yu>
+
+📂 Please visit my GitHub Profile to view my work:- <https://github.com/Harshit-Soni78>
+
+Why is this important?
+Visualizing global data like the Nobel Prize distribution helps us uncover historical trends, gender representation, and country-wise contributions to scientific and humanitarian advancements.
+
+💡 Next up: More advanced data analysis & predictive modeling! 🚀
+
+What are some of your favorite data visualization tools & techniques? Let’s discuss in the comments! 👇
+
+🚀 #DataScience #NobelPrize #Plotly #Matplotlib #Seaborn #MachineLearning #Python #100DaysOfCode #DataVisualization #Analytics #BigData #Tech
+
+## Post-63 Day-80
+
+🧼 Day 80 of #100DaysOfCode: The Tragic Discovery of Handwashing – A Data Science Perspective 📊🩺
+
+Today, I explored one of the most impactful discoveries in medical history—how handwashing reduced mortality rates in Vienna hospitals. Using t-tests and statistical distributions, I analyzed the life-saving effect of this simple yet powerful hygiene practice.
+
+Key Insights from Today’s Learning:
+
+- 📌 Data Exploration: Visualized birth & death rates at Vienna General Hospital 🏥
+- 📌 Comparative Analysis: Split data by clinic to observe trends 📊
+- 📌 Statistical Significance: Used t-tests to confirm the impact of handwashing 🔬
+- 📌 Distribution Visualization: Explored mortality patterns over time 📈
+- 📌 Real-World Impact: Highlighted how data-driven decisions shape public health 🌍
+
+🔗 Explore the Repository: <https://github.com/Harshit-Soni78/The-100-Days-of-Code-The-Complete-Python-Pro-Bootcamp-by-Dr._Angela_Yu>
+
+📂 Please visit my GitHub Profile to view my work:- <https://github.com/Harshit-Soni78>
+
+Why is this important?
+This analysis is a reminder of the power of data science in healthcare. Semmelweis' discovery was groundbreaking, yet it was ignored for years. Statistical evidence like this proves how data-driven decisions can save lives.
+
+💡 Next up: More advanced statistical analysis & predictive modeling! 🚀
+
+What other historical discoveries do you think could have been accelerated with data science? Let’s discuss in the comments! 👇
+
+🚀 #DataScience #Statistics #PublicHealth #Handwashing #Python #100DaysOfCode #MachineLearning #BigData #Analytics #Tech
