@@ -7,10 +7,10 @@ token.txt
 *.db
 *instance/
 # My hidden files Start
-
+postHeading.py
 filename.py
 filemaker.cmd
-
+try.md
 # End
 
 .gitignore
