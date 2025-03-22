@@ -2238,3 +2238,552 @@ This analysis is a reminder of the power of data science in healthcare. Semmelwe
 What other historical discoveries do you think could have been accelerated with data science? Let’s discuss in the comments! 👇
 
 🚀 #DataScience #Statistics #PublicHealth #Handwashing #Python #100DaysOfCode #MachineLearning #BigData #Analytics #Tech
+
+## Post-64 Day-81
+
+🏡 Day 81 of #100DaysOfCode: Predicting House Prices with Data Science 📊📈
+
+Today’s milestone was all about building a predictive model for house prices—a crucial application of machine learning in the real world! Using historical data, I worked on training a model to estimate house prices based on various features like location, size, and amenities.
+
+What I Accomplished Today:
+
+- ✅ Data Preprocessing – Handling missing values & feature engineering 🛠️
+- ✅ Exploratory Data Analysis (EDA) – Understanding patterns in the dataset 🔍
+- ✅ Model Training & Evaluation – Implementing regression models 📉
+- ✅ Performance Metrics – Measuring accuracy using RMSE & R² ⚡
+- ✅ Insights & Learning Points – Key takeaways from the project 📑
+
+🔗 Explore the Repository: <https://github.com/Harshit-Soni78/The-100-Days-of-Code-The-Complete-Python-Pro-Bootcamp-by-Dr._Angela_Yu>
+
+📂 Please visit my GitHub Profile to view my work:- <https://github.com/Harshit-Soni78>
+
+Why is this important?
+
+Predicting house prices isn't just an academic exercise—it has real-world impact in real estate, finance, and economic planning. Accurate models help buyers, sellers, and investors make informed decisions.
+
+🚀 Next up: More advanced modeling techniques & fine-tuning!
+
+If you’ve worked on real estate price prediction, what challenges did you face? Let’s discuss in the comments! 👇
+
+🚀 #MachineLearning #DataScience #HousePrices #RealEstate #AI #Regression #100DaysOfCode #Python #BigData #Tech
+
+## Post-65 Day-82
+
+🚀 Day 82 of #100DaysOfCode: Python Scripting – Text to Morse Code Converter 💡🔠
+
+As I continue sharing my journey, today’s milestone was all about Python scripting and problem-solving! I built a Text to Morse Code Converter, a simple yet powerful tool that translates any text into Morse code—one of the earliest forms of digital communication.
+
+What I Built Today:
+
+- ✅ Text-to-Morse Code Conversion 🔡➡️📡
+- ✅ Handling Edge Cases – Spaces, numbers & special characters ✨
+- ✅ Python Dictionary Implementation – Efficiently mapping letters to Morse ⌨️
+- ✅ Command-Line Utility – Making it interactive & user-friendly 🚀
+
+🔗 Explore the Repository: <https://github.com/Harshit-Soni78/The-100-Days-of-Code-The-Complete-Python-Pro-Bootcamp-by-Dr._Angela_Yu>
+
+📂 Please visit my GitHub Profile to view my work:- <https://github.com/Harshit-Soni78>
+
+Why is this project useful?
+
+- 🔹 Morse code is still used in aviation, military, and emergency signals.
+- 🔹 A great beginner-friendly project to practice Python scripting & string manipulation.
+- 🔹 Enhances problem-solving and logical thinking in coding!
+
+💬 Have you ever worked with Morse code or built similar Python scripts? Let’s connect and discuss in the comments! ⬇️
+
+🚀 #Python #Coding #Scripting #MorseCode #Automation #100DaysOfCode #PythonProjects #Tech
+
+## Post-66 Day-83
+
+🚀 Day 83 of #100DaysOfCode: Building My Portfolio Website 🌐💻
+
+Today, I took a big step in showcasing my skills by working on my Portfolio Website as part of my Python Web Development journey! A portfolio is more than just a website—it’s a digital resume, a story of growth, and a way to connect with opportunities.
+
+What I Built Today:
+
+- ✅ Designed a Personal Portfolio Website 🏆
+- ✅ Implemented HTML, CSS, & Flask for dynamic content 🖥️
+- ✅ Responsive Design – Looks great on all devices 📱💡
+- ✅ Deployed the project – Making it live for the world to see 🚀
+
+🔗 Explore the Repository: <https://github.com/Harshit-Soni78/The-100-Days-of-Code-The-Complete-Python-Pro-Bootcamp-by-Dr._Angela_Yu>
+
+📂 Please visit my GitHub Profile to view my work:- <https://github.com/Harshit-Soni78>
+
+Why is this important?
+
+- 🔹 A personal portfolio helps showcase projects & attract job opportunities.
+- 🔹 Hands-on experience in web development, design & deployment.
+- 🔹 It’s a living document of my journey as a developer!
+
+💬 Do you have your own portfolio website? Drop the link in the comments, and let’s check out each other’s work! 🔗✨
+
+🚀 #Python #WebDevelopment #Portfolio #Flask #100DaysOfCode #WebDesign #Tech #Career
+
+## Post-67 Day-84
+
+🚀 Day 84 of #100DaysOfCode: Building Tic Tac Toe with Python 🎮🐍
+
+Today's project was all about Python Scripting, and I built a Tic Tac Toe game from scratch! This assignment was a great way to strengthen my problem-solving skills and reinforce core programming concepts.
+
+What I Built Today:
+
+- ✅ Tic Tac Toe Game – Playable in the terminal 🎲
+- ✅ Implemented game logic – Player turns, win conditions, and a draw scenario 🏆
+- ✅ Used Python functions & loops to manage the game flow 🔄
+- ✅ Optimized the code for efficiency and readability 💡
+
+🔗 Explore the Repository: <https://github.com/Harshit-Soni78/The-100-Days-of-Code-The-Complete-Python-Pro-Bootcamp-by-Dr._Angela_Yu>
+
+📂 Please visit my GitHub Profile to view my work:- <https://github.com/Harshit-Soni78>
+
+Key Takeaways:
+
+- 🔹 Python scripting is powerful for game development & automation.
+- 🔹 Writing clean & modular code makes debugging and enhancements easier.
+- 🔹 Even simple games can teach valuable programming concepts like logic handling and user interaction.
+
+💬 Have you built a Python game before? Let’s connect and discuss more cool projects in the comments! 👇
+
+🚀 #Python #GameDevelopment #TicTacToe #100DaysOfCode #CodingJourney #PythonScripting #Tech
+
+## Post-68 Day-85
+
+🚀 Day 85 of #100DaysOfCode: Building an Image Watermarking App with Python! 🖼️🔒
+
+Today, I took a deep dive into GUI development and built an Image Watermarking Desktop App using Python! This project was a perfect blend of Tkinter for the GUI and PIL (Pillow) for image processing.
+
+What I Built Today:
+
+- ✅ A desktop app to add watermarks to images 🖍️
+- ✅ User-friendly GUI using Tkinter 🖥️
+- ✅ Implemented image processing with Pillow 📷
+- ✅ Ability to save watermarked images for protection & branding 🔐
+
+🔗 Explore the Repository: <https://github.com/Harshit-Soni78/The-100-Days-of-Code-The-Complete-Python-Pro-Bootcamp-by-Dr._Angela_Yu>
+
+📂 Please visit my GitHub Profile to view my work:- <https://github.com/Harshit-Soni78>
+
+Key Takeaways:
+
+- 🔹 GUI development in Python is super fun & versatile! 🎨
+- 🔹 Tkinter + Pillow makes image processing easy & efficient.
+- 🔹 This project is a practical tool for photographers, designers & content creators.
+
+💬 Ever needed to watermark your images? What’s your favorite Python GUI framework? Let’s discuss in the comments! 👇
+
+🚀 #Python #GUI #Tkinter #ImageProcessing #100DaysOfCode #CodingJourney #WatermarkingApp #Tech
+
+## Post-69 Day-86
+
+🚀 Day 86 of #100DaysOfCode: Built a Typing Speed Test App! ⌨️⚡
+
+Today's project was all about speed, accuracy, and user interaction—I built a Typing Speed Test desktop app using Python! This was another exciting GUI-based project that helped me improve my skills in Tkinter and real-time event handling.
+
+🔹 What I Built Today:
+
+- ✅ A real-time typing test app to measure speed & accuracy
+- ✅ Dynamic UI with Tkinter for an interactive experience
+- ✅ Word tracking & timer to calculate words per minute (WPM)
+- ✅ Instant results display to analyze performance
+
+🔗 Explore the Repository: <https://github.com/Harshit-Soni78/The-100-Days-of-Code-The-Complete-Python-Pro-Bootcamp-by-Dr._Angela_Yu>
+
+📂 Please visit my GitHub Profile to view my work:- <https://github.com/Harshit-Soni78>
+
+💡 Key Takeaways:
+
+- 🔹 GUI development can be fun & interactive when real-time elements are involved 🎮
+- 🔹 Event-driven programming in Python is powerful for user interaction 🖱️
+- 🔹 Typing speed tests are great for improving efficiency & focus!
+
+💬 What’s your current WPM? Have you ever tried a typing speed test app before? Let’s chat in the comments! 👇
+
+🚀 #Python #GUI #Tkinter #TypingSpeedTest #100DaysOfCode #CodingJourney #Tech #Project
+
+## Post-70 Day-87
+
+🎮 Day 87 of #100DaysOfCode: Built the Classic Breakout Game! 🚀
+
+Today's project was pure fun and nostalgia! I recreated the iconic Breakout game using Python. This project was a great deep dive into game development, physics, and event-driven programming.
+
+🔹 What I Built Today:
+
+- ✅ A fully functional Breakout game with paddle & bricks
+- ✅ Collision detection for interactive gameplay
+- ✅ Ball physics & movement logic using Python
+- ✅ Score tracking & difficulty scaling
+
+🔗 Explore the Repository: <https://github.com/Harshit-Soni78/The-100-Days-of-Code-The-Complete-Python-Pro-Bootcamp-by-Dr._Angela_Yu>
+
+📂 Please visit my GitHub Profile to view my work:- <https://github.com/Harshit-Soni78>
+
+💡 Key Takeaways:
+
+- 🔹 Game development requires logical thinking & precise movement control 🎯
+- 🔹 Collision mechanics are super interesting to implement 💡
+- 🔹 Python is powerful for building games even with minimal libraries!
+
+💬 Which classic arcade game would you love to recreate? Let me know in the comments! 🎮👇
+
+🚀 #Python #GameDevelopment #BreakoutGame #100DaysOfCode #CodingJourney #Tech #Project
+
+## Post-71 Day-88
+
+☕ Day 88 of #100DaysOfCode: Built a Café & WiFi Website! 🌐
+
+Today, I worked on a web development project that helps users find cafés with WiFi availability. This project strengthened my skills in Flask, databases, and frontend design.
+
+🔹 What I Built Today:
+
+- ✅ A Flask-based website to list and review cafés
+- ✅ SQLite database integration to store café details
+- ✅ Google Maps embedding for easy location access
+- ✅ Bootstrap & CSS for a sleek, user-friendly UI
+
+🔗 Explore the Repository: <https://github.com/Harshit-Soni78/The-100-Days-of-Code-The-Complete-Python-Pro-Bootcamp-by-Dr._Angela_Yu>
+
+📂 Please visit my GitHub Profile to view my work:- <https://github.com/Harshit-Soni78>
+
+💡 Key Takeaways:
+
+- 🔹 Working with databases in Flask + SQLAlchemy is seamless 🗄️
+- 🔹 User-friendly UI design plays a huge role in usability 🎨
+- 🔹 Full-stack development involves a good mix of logic & creativity 🔥
+
+💬 What’s your go-to café for coding sessions? ☕ Drop your favorite spot in the comments! 👇
+
+🚀 #WebDevelopment #Flask #Python #FullStack #100DaysOfCode #CodingJourney #Project
+
+## Post-72 Day-89
+
+📝 Day 89 of #100DaysOfCode: Built a To-Do List App! - ✅
+
+Today's project was all about productivity – I built a To-Do List web app using Flask and databases. This project reinforced my understanding of backend logic, CRUD operations, and user interaction.
+
+🔹 What I Built Today:
+
+- ✅ A Flask-based To-Do List app 📋
+- ✅ SQLite database integration for task management 🗄️
+- ✅ Add, update, and delete tasks seamlessly
+- ✅ Bootstrap + CSS for a clean and responsive UI 🎨
+
+🔗 Explore the Repository: <https://github.com/Harshit-Soni78/The-100-Days-of-Code-The-Complete-Python-Pro-Bootcamp-by-Dr._Angela_Yu>
+
+📂 Please visit my GitHub Profile to view my work:- <https://github.com/Harshit-Soni78>
+
+💡 Key Takeaways:
+
+- 🔹 CRUD operations (Create, Read, Update, Delete) are fundamental in web apps 🔄
+- 🔹 Database-driven applications help in real-world problem-solving
+- 🔹 A simple UI can greatly enhance user experience
+
+What’s the one productivity tool you can’t live without? Let me know in the comments! 👇
+
+🚀 #Flask #WebDevelopment #Python #ToDoList #100DaysOfCode #FullStack #CodingJourney
+
+## Post-73 Day-90
+
+🚀 Day 90 of #100DaysOfCode: Built a Disappearing Text Writing App! 📝✨
+
+Today's project was a fun and challenging GUI-based desktop app – the Disappearing Text Writing App! This app is designed to help users focus by making the text disappear if they stop typing for a while. A great way to beat procrastination and keep writing!
+
+🔹 Features of My Project:
+
+- ✅ Tkinter-based GUI for an interactive experience
+- ✅ Timer mechanism that clears the text if the user stops typing
+- ✅ Boosts focus and promotes active writing 🧠
+- ✅ Responsive and user-friendly design
+
+🔗 Explore the Repository: <https://github.com/Harshit-Soni78/The-100-Days-of-Code-The-Complete-Python-Pro-Bootcamp-by-Dr._Angela_Yu>
+
+📂 Please visit my GitHub Profile to view my work:- <https://github.com/Harshit-Soni78>
+
+💡 Key Takeaways:
+
+- 🔹 Python’s Tkinter is great for building quick GUI applications 🎨
+- 🔹 Timer-based logic can be useful in productivity apps
+- 🔹 Coding can help solve real-world problems—like writer’s block!
+
+What productivity trick do you swear by? Share in the comments! 👇
+
+🚀 #Python #GUI #Tkinter #ProductivityApp #100DaysOfCode #Focus #CodingJourney
+
+## Post-74 Day-91
+
+🎧 Day 91 of #100DaysOfCode: Convert PDF to Audiobook! 📖🔊
+
+Today's project was all about working with APIs and HTTP requests to create something practical—a PDF to Audiobook converter! This tool takes a PDF document and converts it into an audio file, making it easier to "read" books on the go.
+
+🔹 Features of My Project:
+
+- ✅ Extracts text from PDFs 📄
+- ✅ Uses Text-to-Speech (TTS) APIs to generate audio 🔊
+- ✅ Saves the audio as an MP3 file for offline listening 🎵
+- ✅ User-friendly and accessible!
+
+🔗 Explore the Repository: <https://github.com/Harshit-Soni78/The-100-Days-of-Code-The-Complete-Python-Pro-Bootcamp-by-Dr._Angela_Yu>
+
+📂 Please visit my GitHub Profile to view my work:- <https://github.com/Harshit-Soni78>
+
+💡 Key Takeaways:
+
+- 🔹 HTTP Requests & APIs make automation easier 🚀
+- 🔹 Text-to-Speech technology is super useful for accessibility 🦾
+- 🔹 Automating tasks can save time and improve efficiency
+
+Would you use an audiobook generator like this? Let me know in the comments! 👇
+
+🚀 #Python #APIs #TextToSpeech #Automation #100DaysOfCode #CodingJourney #TechForGood
+
+## Post-75 Day-92
+
+🎨 Day 92 of #100DaysOfCode: Image Colour Palette Generator! 🌈🖼️
+
+Today’s project was an exciting dive into image processing & data science—I built an Image Colour Palette Generator! This tool extracts the dominant colors from an image and generates a beautiful palette, making it perfect for designers, developers, and artists.
+
+🔹 Features of My Project:
+
+- ✅ Extracts dominant colors from an image 🎨
+- ✅ Generates a color palette dynamically 🖌️
+- ✅ Uses OpenCV & K-Means Clustering for color detection 🏗️
+- ✅ Simple, efficient, and useful for design inspiration!
+
+🔗 Explore the Repository: <https://github.com/Harshit-Soni78/The-100-Days-of-Code-The-Complete-Python-Pro-Bootcamp-by-Dr._Angela_Yu>
+
+📂 Please visit my GitHub Profile to view my work:- <https://github.com/Harshit-Soni78>
+
+💡 Key Takeaways:
+
+- 🔹 Image Processing is a powerful skill for both design & AI
+- 🔹 K-Means Clustering helps in segmenting colors effectively
+- 🔹 Automating design tasks can improve workflow efficiency 🚀
+
+What do you think? Would you use a tool like this for your projects? Let’s discuss in the comments! 👇
+
+🚀 #Python #DataScience #ImageProcessing #ComputerVision #100DaysOfCode #TechForCreatives
+
+## Post-76 Day-93
+
+🕸️ Day 93 of #100DaysOfCode: Building a Custom Web Scraper! 🔍💻
+
+Today’s project was all about Web Scraping—automating the extraction of valuable data from websites! I built a Custom Web Scraper that can collect and analyze information from the web, making data gathering more efficient and scalable.
+
+🔹 What My Web Scraper Can Do:
+
+- ✅ Extracts data from targeted web pages 🌐
+- ✅ Parses & structures information for easy analysis 📊
+- ✅ Uses BeautifulSoup & Requests for efficient scraping 🏗️
+- ✅ Can be modified for different use cases!
+
+🔗 Explore the Repository: <https://github.com/Harshit-Soni78/The-100-Days-of-Code-The-Complete-Python-Pro-Bootcamp-by-Dr._Angela_Yu>
+
+📂 Please visit my GitHub Profile to view my work:- <https://github.com/Harshit-Soni78>
+
+💡 Key Takeaways:
+
+- 🔹 Web Scraping is a powerful tool for data-driven decision-making
+- 🔹 Automating repetitive tasks can save time & effort
+- 🔹 Ethical considerations are essential when scraping websites 🚀
+
+Excited to explore more real-world applications of web scraping! Have you ever built a scraper? Let’s chat in the comments! 👇
+
+🚀 #Python #WebScraping #Automation #DataScience #BeautifulSoup #100DaysOfCode
+
+## Post-77 Day-94
+
+🎮 Day 94 of #100DaysOfCode: Automating the Google Dinosaur Game! 🦖⚡
+
+Today's project was all about GUI Automation—I built a bot that plays the Google Dinosaur Game automatically! Using Python, I automated key presses to detect obstacles and keep the dino running endlessly.
+
+🔹 What My Automation Bot Does:
+
+- ✅ Uses OpenCV & Pyautogui to detect obstacles 🖥️
+- ✅ Simulates keystrokes to make the dino jump at the right time ⬆️
+- ✅ Runs at high speed for flawless automation 🚀
+- ✅ A fun introduction to AI-driven gameplay 🎯
+
+🔗 Explore the Repository: <https://github.com/Harshit-Soni78/The-100-Days-of-Code-The-Complete-Python-Pro-Bootcamp-by-Dr._Angela_Yu>
+
+📂 Please visit my GitHub Profile to view my work:- <https://github.com/Harshit-Soni78>
+
+💡 Key Takeaways:
+
+- 🔹 GUI Automation can be used for testing, gaming, and efficiency
+- 🔹 OpenCV & Pyautogui are powerful for automating interactions
+- 🔹 Fun way to explore computer vision & automation!
+
+What’s the coolest thing you've automated? Let’s chat in the comments! 👇
+
+🚀 #Python #Automation #GUIAutomation #OpenCV #100DaysOfCode #GameBot
+
+## Post-78 Day-95
+
+🚀 Day 95 of #100DaysOfCode: Building Space Invaders! 🎮💥
+
+Today, I took a nostalgic trip back to the arcade era by developing my own Space Invaders game! Using Python, I recreated the classic alien-shooting game with animated enemies, player movement, and collision detection.
+
+🕹️ Features of My Space Invaders Game:
+
+- ✅ Player-controlled spaceship that moves left & right 🚀
+- ✅ Falling enemy invaders with increasing difficulty 👾
+- ✅ Bullet shooting mechanics with collision detection 💥
+- ✅ Score tracking to keep players engaged 🏆
+- ✅ Built with Python & Pygame for a smooth gaming experience 🎮
+
+🔗 Explore the Repository: <https://github.com/Harshit-Soni78/The-100-Days-of-Code-The-Complete-Python-Pro-Bootcamp-by-Dr._Angela_Yu>
+
+📂 Please visit my GitHub Profile to view my work:- <https://github.com/Harshit-Soni78>
+
+💡 Key Takeaways:
+
+- 🔹 Game development with Python is both fun & challenging!
+- 🔹 Learned about event handling, object movement, and sprite collision
+- 🔹 This project was a great exercise in logic & animation
+
+Would love to hear your thoughts! What's your favorite arcade game? Drop a comment! 👇
+
+🚀 #Python #GameDevelopment #Pygame #100DaysOfCode #SpaceInvaders #RetroGaming
+
+## Post-79 Day-96
+
+🚀 Day 96 of #100DaysOfCode: Building a Custom API-Based Website! 🌐💻
+
+Today's project was all about leveraging APIs to create a dynamic website that fetches and displays real-time data. This assignment pushed me to explore HTTP requests, API integration, and handling JSON data in a web application.
+
+🌍 Features of My API-Based Website:
+
+- ✅ Fetches real-time data from an external API 🔄
+- ✅ Dynamically updates content based on user input 🏗️
+- ✅ Uses Flask & JavaScript for smooth integration 💡
+- ✅ Error handling & response management for better UX 🚀
+
+🔗 Explore the Repository: <https://github.com/Harshit-Soni78/The-100-Days-of-Code-The-Complete-Python-Pro-Bootcamp-by-Dr._Angela_Yu>
+
+📂 Please visit my GitHub Profile to view my work:- <https://github.com/Harshit-Soni78>
+
+💡 Key Takeaways:
+
+- 🔹 API-based applications make websites more interactive & real-time
+- 🔹 Learned how to handle API requests, JSON parsing, and dynamic content updates
+- 🔹 Excited to explore RESTful API design & backend optimizations next!
+
+APIs are the backbone of modern web applications. What are your favorite API-based projects? Drop a comment! 👇
+
+🚀 #WebDevelopment #APIs #Flask #100DaysOfCode #Python #RESTAPI
+
+## Post-80 Day-97
+
+🛍️ Day 97 of #100DaysOfCode: Building an Online Shop! 🛒💻
+
+Today's project was all about developing an e-commerce website! This assignment helped me explore web development, backend integration, and dynamic content rendering to create a functional online shop.
+
+🌟 Features of My Online Shop:
+
+- ✅ Product Listings & Categories 📦
+- ✅ Add to Cart & Checkout System 🛒
+- ✅ Dynamic Content Rendering 🔄
+- ✅ Frontend & Backend Integration 🔗
+
+🔗 Explore the Repository: <https://github.com/Harshit-Soni78/The-100-Days-of-Code-The-Complete-Python-Pro-Bootcamp-by-Dr._Angela_Yu>
+
+📂 Please visit my GitHub Profile to view my work:- <https://github.com/Harshit-Soni78>
+
+💡 Key Takeaways:
+
+- 🔹 Built a structured e-commerce layout for seamless user experience
+- 🔹 Integrated dynamic product listings & cart functionality
+- 🔹 Understood the importance of backend and database management
+
+E-commerce development is an exciting space, and I'm eager to explore payment gateways & user authentication next! Have you ever built an online store? Drop your insights below! 👇
+
+🚀 #WebDevelopment #Ecommerce #Flask #100DaysOfCode #Python #PortfolioProject
+
+## Post-81 Day-98
+
+🤖 Day 98 of #100DaysOfCode: Python Automation! ⚡🚀
+
+Today’s project focused on automating repetitive tasks using Python! Automation is a game-changer for efficiency, and this assignment helped me explore how to streamline workflows using scripting.
+
+🔧 What I Built:
+
+- ✅ Automated Repetitive Tasks 🔄
+- ✅ Scheduled & Triggered Actions ⏰
+- ✅ File Handling & Data Processing 📂
+- ✅ Web Scraping & API Integration 🌐
+
+🔗 Explore the Repository: <https://github.com/Harshit-Soni78/The-100-Days-of-Code-The-Complete-Python-Pro-Bootcamp-by-Dr._Angela_Yu>
+
+📂 Please visit my GitHub Profile to view my work:- <https://github.com/Harshit-Soni78>
+
+💡 Key Takeaways:
+
+- 🔹 Learned how to write scripts to automate daily tasks
+- 🔹 Explored Python libraries like Selenium, BeautifulSoup & schedulers
+- 🔹 Understood the importance of automation in productivity
+
+Automation saves time and reduces human error—excited to apply these skills to real-world projects! Have you automated anything in Python? Share your experiences below! 👇
+
+🚀 #Python #Automation #Productivity #100DaysOfCode #Scripting #PortfolioProject
+
+## Post-82 Day-99
+
+🚀 Day 99 of #100DaysOfCode: Data Science & The Space Race! 🌌📊
+
+As I near the end of my 100 Days of Code journey, today’s project was an exciting data science assignment—analyzing and visualizing the Space Race! 🚀
+
+🔍 What I Explored:
+
+- ✅ Historical Trends in Space Exploration 🛰
+- ✅ Data Cleaning & Processing using Pandas 🧹
+- ✅ Data Visualization with Matplotlib & Seaborn 📊
+- ✅ Comparing Missions, Launches, and Success Rates
+
+🔗 Explore the Repository: <https://github.com/Harshit-Soni78/The-100-Days-of-Code-The-Complete-Python-Pro-Bootcamp-by-Dr._Angela_Yu>
+
+📂 Please visit my GitHub Profile to view my work:- <https://github.com/Harshit-Soni78>
+
+💡 Key Takeaways:
+
+- 🔹 Data science helps us uncover insights from historical data
+- 🔹 Visual storytelling makes complex trends easy to understand
+- 🔹 The Space Race was a turning point in technological advancements
+
+This was a fantastic project to put my data analysis & visualization skills to the test! One more day to go! 🚀
+
+Would love to hear your thoughts on how data science can help explore space-related insights! Drop your ideas below! 👇
+
+🚀 #DataScience #SpaceRace #Python #100DaysOfCode #MachineLearning #Visualization #PortfolioProject
+
+## Post-83 Day-100
+
+🎉 Day 100 of #100DaysOfCode - The Final Day! 🎯🚀
+
+I’ve officially completed my 100 Days of Code journey! 💯🔥
+The final project was a data science analysis on Deaths involving Police in the United States—a deep dive into a critical issue using Python, Pandas, and Data Visualization.
+
+🔍 What I Explored:
+
+- ✅ Data Cleaning & Preprocessing 🧹
+- ✅ Statistical Trends & Patterns 📊
+- ✅ Visualizing Key Insights with Matplotlib & Seaborn 📉
+- ✅ Understanding Factors & Geographic Distributions 🗺
+
+🔗 Explore the Repository: <https://github.com/Harshit-Soni78/The-100-Days-of-Code-The-Complete-Python-Pro-Bootcamp-by-Dr._Angela_Yu>
+
+📂 Please visit my GitHub Profile to view my work:- <https://github.com/Harshit-Soni78>
+
+💡 Reflections on 100 Days of Code:
+
+- 🔹 Consistency is Key – Daily practice led to massive skill improvement!
+- 🔹 Projects Matter – Real-world projects help solidify knowledge and build a strong portfolio.
+- 🔹 The Journey Never Ends – This is just the beginning! 🚀
+
+Completing this challenge has been one of the most rewarding experiences, and I’m excited to keep building and learning in AI, Machine Learning, and Data Science!
+
+A big THANK YOU to everyone who has supported and encouraged me along the way! 🙌
+
+If you're considering taking on #100DaysOfCode, I highly recommend it! Let’s keep pushing forward! 💪
+
+🚀 #Python #DataScience #MachineLearning #100DaysOfCode #CodingJourney #PortfolioProject #KeepLearning
